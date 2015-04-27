@@ -9,19 +9,19 @@ newData = "/newData/";
 
 
 
-with open(sourceData+"bandlist_Ambient", "r", encoding="ascii") as f:
+with open(sourceData+"bandlist_Eurodance", "r", encoding="utf-8") as f:
     text = f.read()
     text = text.split("\n")
     openBrace = "[[";
     closeBrace = "]]";
     sep = "|"
     for line in text:
-    	if line.find(openBrace) == 2:
-    		bandname = line[4:line.find(closeBrace)]
+    	if line.find(openBrace) == 1:
+    		bandname = line[3:line.find(closeBrace)]
     		if bandname.find("|") != -1:
     			bandname = bandname[0:bandname.find("|")]
 
-    		print((bandname))
+    		print(bandname)
 
 
 

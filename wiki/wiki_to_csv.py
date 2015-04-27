@@ -1,11 +1,9 @@
 # PUT FILE COMMENTS HERE
 
 
-import geopy, csv, re 
+import csv, re 
 
 sourceData = "wikidumps/"
-
-
 
 
 # given a portion of an infobox likely to contain the origin of a band, 
@@ -23,8 +21,7 @@ def extract_origin(text):
             return "NF"
         com_string = (o_text[start_com:(end_com+1)])
         o_text = o_text.replace(com_string, " ")
-        # print("DIDTHISWORK")
-        # print("to be removed: |" + com_string + "|")
+
     start_real_o = o_text.find("=")
     if start_real_o == -1:
         return "NF"
@@ -45,9 +42,7 @@ def extract_start(text):
     end_y = text.find("\\n")
     y_text = "NF"
     if end_y != -1:
-        y_text = text[0:end_y]
-
-             
+        y_text = text[0:end_y]             
     number_length = 4                                   
     pattern= r"\D(\d{%d})\D" % number_length   # \D to avoid matching 567           
     years = re.findall(pattern, y_text)
@@ -56,10 +51,9 @@ def extract_start(text):
     return years[0]
 
 
-# location = geolocator.geocode("Montreal, Quebec, Canada")
-# print((location.latitude, location.longitude))
 
-with open(sourceData+"Ambient_dump.txt", "r", encoding="latin-1") as f:
+
+with open(sourceData+"House_dump.txt", "r", encoding="latin-1") as f:
     text = f.read()
     
     openBrace = "[[";
@@ -98,8 +92,5 @@ with open(sourceData+"Ambient_dump.txt", "r", encoding="latin-1") as f:
                 print("\"" + orig_text + "\"" + ", " + year_text)
                 infobox_count += 1
 
-
-
-print(infobox_count)
 
 
