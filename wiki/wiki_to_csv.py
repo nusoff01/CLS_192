@@ -3,14 +3,15 @@
 
 import csv, re 
 
-sourceData = "wikidumps/"
+sourceData = "./wikidumps/"
 
 
 # given a portion of an infobox likely to contain the origin of a band, 
 # return the origin, or "NF" if not found
 
 def extract_origin(text):
-    end_o = text.find("\\n")
+    end_o = text.find("\n")
+
     o_text = "NF"
     if end_o != -1:
         o_text = text[0:end_o]
@@ -25,7 +26,6 @@ def extract_origin(text):
     start_real_o = o_text.find("=")
     if start_real_o == -1:
         return "NF"
-
     o_text = o_text[(start_real_o + 2):]
     if len(o_text) < 3:
         return "NF"
@@ -39,7 +39,7 @@ def extract_origin(text):
 # return the year, or "NF" if not found
 
 def extract_start(text):
-    end_y = text.find("\\n")
+    end_y = text.find("\n")
     y_text = "NF"
     if end_y != -1:
         y_text = text[0:end_y]             
@@ -53,7 +53,7 @@ def extract_start(text):
 
 
 
-with open(sourceData+"House_dump.txt", "r", encoding="latin-1") as f:
+with open(sourceData+"dump_noise.txt", "r", encoding="latin-1") as f:
     text = f.read()
     
     openBrace = "[[";
@@ -64,7 +64,11 @@ with open(sourceData+"House_dump.txt", "r", encoding="latin-1") as f:
 
     infobox_count = 0
     infobox_start = 0;
+    counter = 0;
+
+
     while infobox_start != -1:
+        counter += 1
         infobox_start = text.find(ibox_string);
         if infobox_start != -1:
             text = text[(infobox_start + 1):]
@@ -91,6 +95,5 @@ with open(sourceData+"House_dump.txt", "r", encoding="latin-1") as f:
             if valid_box == 2:
                 print("\"" + orig_text + "\"" + ", " + year_text)
                 infobox_count += 1
-
 
 

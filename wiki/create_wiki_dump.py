@@ -22,14 +22,7 @@ post_url = "&rvsection=0"
 c = pycurl.Curl()
 
 buffer = BytesIO()
-
-
-
 c = pycurl.Curl()
-
-
-
-
 c.setopt(c.WRITEDATA, buffer)
 body = ""
 
@@ -55,10 +48,6 @@ with open(sourceData+"genre_lists.txt", "r") as f:
         
         body += "\n\n ****** " + line.replace("%20", " ") + "\n\n";
         body += raw_body.replace("\\n", "\n")
-
-
-        
-        
 
 
 

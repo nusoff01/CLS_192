@@ -5,24 +5,23 @@
 
 import geopy, csv
 
-sourceData = "data/"
+sourceData = "./csvs/"
 
 
 from geopy.geocoders import Nominatim
 geolocator = Nominatim()
 
-
-
-
 # location = geolocator.geocode("Montreal, Quebec, Canada")
 # print((location.latitude, location.longitude))
 
-with open(sourceData + 'bandlist.csv') as csvfile:
+with open(sourceData + 'noise.csv') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', skipinitialspace=True)
     for row in reader:
-        town_loc = row[2]
-        town_loc = town_loc.replace("[", "")
-        town_loc = town_loc.replace("]", "")
-        coords = geolocator.geocode(town_loc)
-        row[2] = (coords.latitude, coords.longitude)
-        print(row)
+        town_loc = row[0]
+        town_loc = town_loc.replace("U.S.", "United States")
+        coords = geolocator.geocode(town_loc, timeout=10)
+        try:
+        	row[0] = (coords.latitude, coords.longitude)
+        except:
+        	row[0] = "NA"
+        print('"' + str(row[0][0]) + ", " + str(row[0][1]) + '", ' + str(row[1]))

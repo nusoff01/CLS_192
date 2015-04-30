@@ -1,5 +1,4 @@
  ****** List of adult alternative artists
-
 Ryan Adams
 Adele
 The Airborne Toxic Event
@@ -508,7 +507,6 @@ Hindi Zahra
 Warren Zevon
 Hans Zimmer
  ****** List of alternative country musicians
-
 16 Horsepower
 3 Daft Monkeys
 500 Miles to Memphis
@@ -940,7 +938,6 @@ The Yayhoos
 Youell Swinney
 Martin Zellar
  ****** List of ambient music artists
-
 2002 (band)
 3rd Force
 Philip Aaberg
@@ -1290,62 +1287,70 @@ Yellow Magic Orchestra
 Susumu Yokota
 Zero 7
 Zoviet France
-7 Year Bitch
+ ****** List of American grunge bands
 Seattle, Washington
-Alice in Chains
-Babes in Toyland (band)
-Blood Circus (band)
-Bundle of Hiss
-Cat Butt
-Dandelion (American band)
-Dickless
-Fecal Matter (band)
-The Fluid
-Flowerhead
-Foil (band)
-Girl Trouble (band)
-Green River (band)
-Gruntruck
-Gumball (band)
-Hammerbox
-Hater (band)
-Hazel (band)
-Hole (band)
-Jerry Cantrell
-Kids R Cruel
-L7 (band)
-Local H (band)
-Love Battery
-Mad Season (band)
-Malfunkshun
-Mark Arm
-Melvins
-Mother Love Bone
-Mudhoney
-My Sister\'s Machine
-Napalm Beach
-Nirvana (band)
-The Nymphs
-Paw (band)
-Pearl Jam
-Pond (band)
-Screaming Trees
-Seaweed (band)
-The Shots
-Skin Yard
-Solomon Grundy (band)
-Soundgarden
-Stone Temple Pilots
-Sweet Water (band)
-Tad (band)
-Temple of the Dog
-Treepeople
-Tripping Daisy
-Truly
-The U-Men
-Willard (band)
+Seattle, Washington
+Minneapolis, Minnesota
+Seattle, Washington
+Seattle, Washington
+Seattle, Washington
+Philadelphia, Pennsylvania
+Seattle, Washington
+Aberdeen, Washington
+Denver, Colorado
+Austin, Texas
+Seattle, Washington
+Washington (state)
+Seattle, Washington
+Seattle, Washington
+New York City, New York
+Seattle, Washington
+Seattle, Washington
+Portland, Oregon
+Los Angeles, California
+Seattle, Washington
+Venice Beach, California
+Los Angeles, California
+Zion, Illinois
+Seattle, Washington
+Seattle, Washington
+Bainbridge Island, Washington
+Seattle, Washington
+Montesano, Washington
+Seattle, Washington
+Seattle, Washington
+Seattle, Washington
+Portland, Oregon
+Aberdeen, Washington
+New Jersey
+Lawrence, Kansas
+Seattle, Washington
+Portland, Oregon
+Ellensburg, Washington
+Tacoma, Washington
+Sumter, South Carolina
+Seattle, Washington
+Ellensburg, Washington
+Seattle, Washington
+San Diego, California
+Seattle, Washington
+Seattle, Washington
+Seattle, Washington
+Boise, Idaho
+Dallas, Texas
+Seattle, Washington
+Seattle, Washington
+Seattle, Washington
+London, England
+Seattle, Washington
+Tallahassee, Florida
+Charlestown, Indiana
+Seattle, Washington
+Lawrence, Massachusetts
+Hanna, Alberta
+Newcastle, New South Wales
+San Diego, California
  ****** List of Arabic pop musicians
-
 Abdallah Al Rowaished
 Abdel Halim Hafez
 Ahlam
@@ -1481,8 +1486,6 @@ Walid Toufic
 Yasmine Hamdan
 Yara
 Yuri Mraqqadi
-List of Arabs
-Lists of musicians
  ****** List of bhangra artists
 
 Abrar-ul-Haq
@@ -1534,10 +1537,430 @@ Ray Anthony
 Teddy Wilson
 Xavier Cugat
 Wynton Marsalis
- ****** List of black metal bands, 0-K
+ ****** List of black metal bands
 
- ****** List of black metal bands, L-Z
-
+1349 (band)
+Abigail Williams (band)
+Abigor
+Abominator
+Aborym
+Absu (band)
+Absurd (band)
+Abruptum
+Abysmal Dawn
+Acheron (band)
+Admonish (band)
+Adorned Brood
+Aes Dana (band)
+Aeternus
+Agalloch
+Agathodaimon (band)
+Ajattara (band)
+Akercocke
+Alastis
+Alcest
+Allfader
+The Amenta
+Amesoeurs
+Amestigon
+Anaal Nathrakh
+Ancient (band)
+Ancient Rites
+...And Oceans
+Angelcorpse
+Angizia
+Anorexia Nervosa (band)
+Antaeus (band)
+Antestor
+Apostasy (band)
+Arallu
+Archgoat
+Arckanum
+Arcturus (band)
+Arkhon Infaustus
+Armagedda
+Armageddon Holocaust
+Arthemesia
+Arvas
+Asgaroth
+\xc3\x81smegin
+Asmodeus (band)
+Astarte (band)
+Astrofaes
+Aura Noir
+Aurora Borealis (band)
+Averse Sefira
+Axis of Advance
+The Axis of Perdition
+Azaghal (band)
+Azrael (band)
+Bal-Sagoth
+Baptism (band)
+Barathrum
+Bathory (band)
+Behemoth (band)
+Beherit (band)
+Behexen
+Belphegor (band)
+Benea Reach
+Bestial Mockery
+Bestial Warlust
+Bethlehem (German band)
+Bewitched (Swedish band)
+Big Boss (musician)
+Black Flame (band)
+Black Funeral
+Black Messiah
+Black Murder
+Blasphemy (band)
+Blood Tsunami
+Bloodthorn
+Blut Aus Nord
+Borknagar
+Bulldozer (band)
+Burzum
+Cadaveria
+Carach Angren
+Carnifex (band)
+Carpathian Forest
+Carpe Tenebrum
+Catamenia (band)
+Celestia (band)
+Celtic Frost
+Ceremonial Castings
+Chakal
+Chthonic (band)
+Cirith Gorgor (band)
+Clandestine Blaze
+Code (band)
+Cor Scorpii
+Countess (band)
+Cradle of Filth
+Craft (metal band)
+Crionics
+Cruachan (band)
+Cruelty\'s Heart
+Cultus Sanguine
+Daemonarch
+Dance Club Massacre
+Dam (band)
+Dark Fortress
+Dark Funeral
+Darkspace (band)
+Darkthrone
+Darkwoods My Betrothed
+Dawn (metal band)
+Dawn of Azazel
+Darzamat
+Dawn of Relic
+Deafheaven
+Deathspell Omega
+Death SS
+December Wolves
+Deinonychus (band)
+Demoncy
+Demoniac
+Den Saakaldte
+Desaster
+Destroy Destroy Destroy
+Destr\xc3\xb6yer 666
+Destruction (band)
+Devian
+Devilish Impressions
+Diaboli
+Diabolical Masquerade
+Dimmu Borgir
+Dissection (band)
+D\xc3\xb8dheimsgard
+Dolorian
+Dorn (band)
+Dornenreich
+Dragonlord (band)
+Drastique
+Drottnar
+Drudkh
+Eibon la Furies
+Einherjer
+Eisregen
+Embraced
+Emperor (band)
+Empyrium
+Endstille
+Enslaved (band)
+Enslavement of Beauty
+Enthroned
+Ephel Duath (band)
+Epoch of Unlight
+Equilibrium (band)
+Estatic Fear
+Ethereal Woods
+Evereve
+Ewigkeit
+Falkenbach
+Faustcoven
+Finntroll
+Fimbulwinter (band)
+Fleurety
+Forefather
+Forest Stream
+Forgotten Tomb
+Frost Like Ashes
+Frosthardr
+Funeral Mist
+The Funeral Pyre
+Gaahlskagg
+Gallhammer
+Gates of Ishtar
+Gehenna (band)
+Goatlord (band)
+Goatwhore
+God Dethroned
+God Seed
+Godkiller
+Golden Dawn (band)
+Gorgoroth
+Gospel of the Horns
+Gramary
+Grand Belial\'s Key
+Graveland
+Graveworm
+Grimfist (band)
+Hades Almighty
+Handful of Hate
+Hate (band)
+Hate Forest
+Hecate (musician)
+Hecate Enthroned
+Helheim (band)
+Hellhammer
+Helrunar
+Hollenthon
+Holocausto (band)
+Holy Blood (band)
+Horna
+Horde (band)
+Horned Almighty
+Hortus Animae
+I (band)
+Ihsahn
+Ildjarn
+Immortal (band)
+Impaled Nazarene
+Impending Doom (German band)
+Impiety (band)
+In Battle
+In the Woods...
+Infernal (black metal band)
+Infernum
+Incantation (band)
+Inquinok
+Inquisition (Colombian band)
+Inspell
+Isengard (Norwegian band)
+Iskra (band)
+Judas Iscariot (music)
+Kampfar
+Katatonia
+Keep of Kalessin
+Kekal
+Khold
+King Diamond (band)
+Klabautamann
+Koldbrann
+Korovakill
+The Kovenant
+Krallice
+Krieg (band)
+Kvelertak
+Kult ov Azazel
+Leviathan (band)
+Lengsel
+Lifelover
+Limbonic Art
+Lord Belial
+The Lord Diabolus
+Lord Kaos
+Lover of Sin
+Ludicra
+Lux Occulta
+Magnum Carnage
+M\xc3\xa5negarm
+Manes (band)
+Marduk (band)
+Master\'s Hammer
+Mayhem (band)
+The Meads of Asphodel
+Melechesh
+Mercyful Fate
+Mezzerschmitt (band)
+Mithotyn
+Moonblood
+Moonsorrow
+Moonspell
+Morbid (band)
+Morgul
+Moribund Oblivion
+Mortuus Caelum
+Mutilator
+M\xc3\xbctiilation
+Myrkgrav
+Myrkskog
+Mystic Circle
+Nachtmystium
+Naer Mataron
+Nagelfar
+Naglfar (band)
+Nahemah (band)
+Nargaroth (band)
+Nattefrost
+Nazxul
+Necrodeath
+Necromantia
+Necrophobic
+Nefastus Dies
+Negur\xc4\x83 Bunget
+Nifelheim
+Nightfall (Greek band)
+N.I.L.
+Noctuary (Band)
+Nocturnal Breed
+Nokturnal Mortum
+Nortt
+Nordafrost
+Notre Dame (band)
+Oathean
+Obscene Eulogy
+Obscurity (band)
+Obtained Enslavement
+Obtest
+Old Funeral
+Old Man\'s Child
+Ondskapt
+Opera IX
+Ophthalamia
+Orcustus
+Order from Chaos
+Ov Hell
+Pantheon I
+Paradox (British band)
+Paysage D\'Hiver
+Peccatum
+Peste Noire
+Primordial (band)
+Profanatica
+Ragnarok (Norwegian band)
+Ram-Zet
+Revenge (Canadian band)
+Rotting Christ
+Rudra (band)
+Ruins (black metal band)
+Sabbat (Japanese band)
+Sabbat (English band)
+Sacramentum (band)
+Salem (Israel band)
+Samael (band)
+Sammath
+Sanctifica
+Sarc\xc3\xb3fago
+Sargeist
+Satanic Slaughter
+Satanic Warmaster
+Satyricon (band)
+Sear Bliss
+Secrets of the Moon
+Scarification
+Selfmindead
+Sepultura
+Setherial
+Shade Empire
+Shining (Swedish band)
+Siebenb\xc3\xbcrgen (band)
+Sigh (band)
+Sindecade
+Skeletonwitch
+Skitliv
+Skyforger
+Slavia (band)
+Slechtvalk
+Sodom (band)
+Solefald
+S\xc3\xb3lstafir
+Sonic Reign
+Spektr (band)
+The Stone (band)
+Stormcast
+Stormlord (band)
+Striborg
+Sturmgeist
+Summoning (band)
+Sunn O)))
+Susperia
+Svartsyn
+Sympathy (band)
+Thyruz
+Taake
+Theatres des Vampires
+Thesyre
+Thorns (band)
+Thou Art Lord
+Thronar
+Thy Serpent
+Thyrane
+Thyrfing
+Tiamat (band)
+Tormentor
+Toxic Holocaust
+Trail of Tears (band)
+Trelldom
+Tribes of Ca\xc3\xafn
+Tristwood (band)
+Troll (band)
+Tsatthoggua
+Tsjuder
+Tvangeste
+Twilight (band)
+Twilight Ophera
+Twin Obscenity (band)
+Tyrant (Japanese band)
+Ulver
+Unanimated
+Underoath
+Unexpect
+Unholy (band)
+Urgehal
+Vaakevandring
+Valhall (band)
+Ved Buens Ende
+Velvet Cacoon
+Venom (band)
+Vesania
+Vesperian Sorrow
+Viking Crown
+Vital Remains
+Vlad Tepes (band)
+Von (band)
+Vondur
+Vorkreist
+Vreid
+Vulcano (band)
+War (Swedish band)
+Watain
+Weakling
+Weltmacht
+Windir
+Wintersun
+Witchery
+Witchfynde
+Witchmaster
+Wolfchant
+Wolves in the Throne Room
+Woods of Ypres
+Wykked Wytch
+Wyrd (band)
+Xasthur
+Zweizz
+Zyklon
+Zyklon-B (band)
  ****** List of blue-eyed soul artists
 
 Adele
@@ -1611,10 +2034,666 @@ Steve Winwood
 Paul Young
  ****** List of blues musicians
 
+Ed Bell (musician)
+Blind Blake
+Black Ace
+Pink Anderson
+Kokomo Arnold
+Lead Belly
+Barbecue Bob
+Son Bonds
+Big Bill Broonzy
+Gabriel Brown
+Kitty Brown
+King Solomon Hill
+Rabbit Brown
+Willie Brown (musician)
+Gus Cannon
+Alice Leslie Carter
+Sam Collins (musician)
+Martha Copeland
+Elizabeth Cotten
+Floyd Council
+Ida Cox
+Arthur "Big Boy" Crudup
+Reverend Gary Davis
+Madlyn Davis
+Mattie Delaney
+Little Buddy Doyle
+Archie Edwards
+Sleepy John Estes
+William Ezell
+Blind Boy Fuller
+Jesse Fuller
+Jazz Gillum
+Lillian Glinn
+Ida Goodson
+Coot Grant
+Arvella Gray
+Shirley Griffith
+Hattie Hart
+Silas Hogan
+Smokey Hogg
+Lightnin\' Hopkins
+Son House
+Peg Leg Howell
+Alberta Hunter
+Mississippi John Hurt
+Jim Jackson (musician)
+John Jackson (blues musician)
+Skip James
+Blind Lemon Jefferson
+Blind Willie Johnson
+Lonnie Johnson (musician)
+Mary Johnson (singer)
+Robert Johnson
+Tommy Johnson (blues musician)
+Lottie Kimbrough
+Rubin Lacey
+Furry Lewis
+Charley Lincoln
+Mance Lipscomb
+Virginia Liston
+Robert Lockwood, Jr.
+Cripple Clarence Lofton
+Eddie Mapp
+Fred McDowell
+Brownie McGhee
+Blind Willie McTell
+Big Maceo Merriweather
+Hazel Meyers
+Memphis Minnie
+Buddy Moss
+Charlie Patton
+Buster Pickens
+Joe Pullum
+Ma Rainey
+Bull City Red
+Piano Red
+Tampa Red
+Walter Roland
+Washboard Sam
+Dan Sane
+Irene Scruggs
+Alec Seward
+Robert Shaw (blues musician)
+Henry "Son" Sims
+Bumble Bee Slim
+Bessie Smith
+Laura Smith (blues singer)
+Charlie Spand
+Victoria Spivey
+Freddie Spruell
+Frank Stokes (musician)
+Baby Tate
+Sonny Terry
+Henry Thomas (blues musician)
+Ramblin\' Thomas
+Henry Townsend (musician)
+Bessie Tucker
+Sippie Wallace
+Curley Weaver
+Sylvester Weaver
+Casey Bill Weldon
+Peetie Wheatstraw
+Bukka White
+Josh White
+Sonny Boy Williamson II
+Ralph Willis (blues musician)
+Wesley Wilson
+Ora Alexander
+Gladys Bentley
+Lucille Bogan
+Bessie Brown
+Reverend Gary Davis
+Thomas A. Dorsey
+Ethel Finnie
+Lil Green
+Helen Gross
+Edmonia Henderson
+Katherine Henderson
+Lucille Hegamin
+Alberta Hunter
+Bertha Idaho
+Papa Charlie Jackson
+Edith North Johnson
+James "Stump" Johnson
+Maggie Jones (blues musician)
+Whistlin\' Alex Moore
+Ma Rainey
+Bessie Smith
+Clara Smith
+Mamie Smith
+Ruby Smith
+Charlie Spand
+Walter Vinson
+Sippie Wallace
+Ethel Waters
+Jabo Williams
+Oscar "Buddy" Woods
+Albert Ammons
+Louis Armstrong
+Sidney Bechet
+Leroy Carr
+Walter Davis (blues)
+Tom Delaney (songwriter)
+Johnny Dodds
+Champion Jack Dupree
+Ivory Joe Hunter
+St. Louis Jimmy Oden
+Meade Lux Lewis
+Little Brother Montgomery
+Big Maceo Merriweather
+Kansas Joe McCoy
+Speckled Red
+Papa Charlie McCoy
+Jay McShann
+Roy Milton
+Jelly Roll Morton
+Jimmy Rushing
+Roosevelt Sykes
+Big Joe Turner
+Sam Taylor (saxophonist)
+T-Bone Walker
+Mose Allison
+Buster Benton
+Charles Brown (musician)
+Roy Brown (blues musician)
+George "Mojo" Buford
+Carolina Slim
+Good Rockin\' Charles
+Ray Charles
+Gary B.B. Coleman
+Pee Wee Crayton
+James Crutchfield
+Larry Davis (blues musician)
+Little Sammy Davis
+Floyd Dixon
+Champion Jack Dupree
+Bob Gaddy
+Terry Garland
+Clarence Garlow
+Larry Garner
+James Harman
+Wynonie Harris
+Duke Henderson
+Louis Jordan
+Booker T. Laury
+Little Willie Littlefield
+Willie Love
+Sidney Maiden
+Percy Mayfield
+Amos Milburn
+Dave Peabody
+Pinetop Perkins
+Piano Red
+J.D. Short
+Frankie Lee Sims
+Memphis Slim
+Robert Curtis Smith
+Smoky Babe
+Houston Stackhouse
+Lonesome Sundown
+Lavelle White
+Joe Willie Wilkins
+Lester Williams (musician)
+Smokey Wilson
+U.P. Wilson
+Jimmy Witherspoon
+Scrapper Blackwell
+Walter Brown (singer)
+Jay McShann
+Arnold Moore
+Jimmy Rushing
+Big Joe Turner
+Little Hatch
+Lee McBee
+Muddy Waters
+Luther Allison
+John Henry Barbee
+Lefty Bates
+Kansas City Red
+Carey Bell
+Eddie "Guitar" Burns
+Paul Butterfield
+Eddie Boyd
+James Cotton
+Blind John Davis
+Bo Diddley
+Willie Dixon
+Lefty Dizz
+David "Honeyboy" Edwards
+Leroy Foster (musician)
+Little Willy Foster
+Calvin Frazier
+Buddy Guy
+Phil Guy
+Shakey Jake Harris
+Earl Hooker
+John Lee Hooker
+Big Walter Horton
+J. B. Hutto
+Elmore James
+Bobo Jenkins
+L.V. Johnson
+Floyd Jones
+Moody Jones
+Albert King
+Eddie King (musician)
+Freddie King
+Bonnie Lee
+Hip Linkchain
+James Montgomery (singer)
+Nick Moss
+Charlie Musselwhite
+Robert Lee McCollum
+Odie Payne
+Pinetop Perkins
+Snooky Pryor
+Boogie Woogie Red
+Jimmy Reed
+Soko Richardson
+Junior Parker
+Jimmy Rogers
+Otis Rush
+Magic Sam
+Eddie Shaw
+Johnny Shines
+Little Mack Simmons
+Magic Slim
+Little Smokey Smothers
+Otis "Big Smokey" Smothers
+Little Sonny
+Otis Spann
+Arthur "Big Boy" Spires
+Bob Stroger
+Eddie Taylor
+Hound Dog Taylor
+The Butler Twins
+Little Walter
+Baby Boy Warren
+Joe Weaver
+Big Mama Thornton
+Johnny "Big Moose" Walker
+Carl Weathersby
+Junior Wells
+Jody Williams (blues musician)
+Johnny Williams (blues musician)
+Sonny Boy Williamson I
+Sonny Boy Williamson II
+Washboard Willie
+Howlin\' Wolf
+Big John Wrencher
+Johnny "Man" Young
+Linsey Alexander
+Holle Thee Maxwell
+Liz Mandeville
+Duane Allman
+Gaye Adegbalola
+Kip Anderson
+James Anthony (musician)
+Memphis Willie B.
+Back Alley John
+Etta Baker
+Marcia Ball
+Johnnie Bassett
+Terry "Harmonica" Bean
+Eric Bibb
+Elvin Bishop
+Bobby Bland
+Rory Block
+Mike Bloomfield
+The Blues Brothers
+Roy Book Binder
+Delaney Bramlett
+Freddie Brooks (musician)
+Lonnie Brooks
+Clarence "Gatemouth" Brown
+Texas Johnny Brown
+Charles Caldwell (bluesman)
+Bob Brozman
+Roy Buchanan
+Eric Burdon
+Michael Burks
+Jimmy Burns
+Cedric Burnside
+Aron Burton
+Catfish Keith
+Eric Clapton
+Albert Collins
+Johnny Copeland
+Al Copley
+Bob Corritore
+Robert Cray
+Yavuz \xc3\x87etin
+Maxwell Street Jimmy Davis
+Willie Dixon
+Little Arthur Duncan
+Big Joe Duskin
+Johnny Dyer
+Snooks Eaglin
+Robert Ealey
+Clarence Edwards (blues musician)
+Margie Evans
+Terry Evans (musician)
+John Fahey (musician)
+The Fabulous Thunderbirds
+Billy Flynn (musician)
+Robben Ford
+Carol Fran
+Denny Freeman
+Steve Freund
+Johnny Fuller (musician)
+Earl Gaines
+Grady Gaines
+Roy Gaines
+Rory Gallagher
+Paul Geremia
+Billy F. Gibbons
+Lacy Gibson
+Peter Green (musician)
+Guitar Slim, Jr.
+Steve Guyger
+Sandra Hall
+Larry Hamilton (musician)
+John P. Hammond
+Ernie Hawkins
+Ted Hawkins
+Johnny Heartsman
+Scott Henderson
+Jimi Hendrix
+Z.Z. Hill
+Bob Hite
+John Dee Holeman
+John Lee Hooker
+Lightnin\' Hopkins
+James Hunter (singer)
+Long John Hunter
+Ironing Board Sam
+Fruteland Jackson
+Colin James
+Etta James
+Steve James (blues musician)
+Jimmy Johnson (blues guitarist)
+Luther "Snake Boy" Johnson
+Andrew "Jr. Boy" Jones
+Calvin "Fuzz" Jones
+Little Sonny Jones
+Tutu Jones
+Janis Joplin
+Jo Ann Kelly
+E.G. Kight
+B.B. King
+Freddie King
+Little Freddie King
+Bob Kirkpatrick (musician)
+Ernie Lancaster
+Lady Bianca
+Sammy Lawhorn
+Calvin Leavy
+Alvin Lee
+Frankie Lee (musician)
+Lovie Lee
+The Legendary Blues Band
+John "Juke" Logan
+Lonnie Mack
+Cash McCall (musician)
+Kevin McKendree
+Doug Macleod (musician)
+Janiva Magness
+Taj Mahal (musician)
+J.J. Malone
+Johnny Mars
+John Mayall
+Pete Mayes
+Floyd Miles
+Luke "Long Gone" Miles
+Keb\' Mo\'
+Gary Moore
+Johnny B. Moore
+Mike Morgan (blues musician)
+Jim Morrison
+Sam Myers
+Slash (musician)
+Steve Nardella
+Sugar Ray Norcia
+Darrell Nulisch
+Odetta
+Elvis Presley
+Andrew Odom
+Jay Owens (musician)
+Jimmy Page
+Lucky Peterson
+Rod Piazza
+Lonnie Pitchford
+Lou Pride
+Gary Primich
+Kid Ramos
+Louisiana Red
+Sherman Robertson
+Fenton Robinson
+Mighty Mo Rodgers
+Roy Rogers (guitarist)
+Roomful of Blues
+Freddie Roulette
+Bobby Rush (musician)
+Saffire - The Uppity Blues Women
+Ken Saydak
+Seasick Steve
+Magic Slim
+Son Seals
+Harmonica Shah
+Preston Shannon
+Roscoe Shelton
+Lightnin\' Slim
+Drink Small
+Barkin\' Bill Smith
+Moses "Whispering" Smith
+Arbee Stidham
+Angela Strehli
+Koko Taylor
+Mick Taylor
+Tabby Thomas
+Rufus Thomas
+Lil\' Dave Thompson
+Ron Thompson (blues guitarist)
+George Thorogood
+Andrew Tibbs
+Ali Farka Tour\xc3\xa9
+Robin Trower
+Walter Trout
+Titus Turner
+Jimmie Vaughan
+Stevie Ray Vaughan
+Mose Vinson
+Willie D. Warren
+Boogie Bill Webb
+Stan Webb
+Valerie Wellington
+Golden "Big" Wheeler
+Lil\' Ed Williams
+Johnny Winter
+Alan Wilson (musician)
+Mitch Woods
+Alto Reed
+Bonny B.
+Jim Allchin
+John Altenburgh
+Grego Anderson
+James Anthony (musician)
+James Armstrong (musician)
+Gwyn Ashton
+Dan Auerbach
+Chico Banks
+L.V. Banks
+Barrelhouse Chuck
+Chris Beard
+Tab Benoit
+Scott H. Biram
+Deanna Bogart
+Joe Bonamassa
+Pat Boyack
+Ronnie Baker Brooks
+Kenny Brown (guitarist)
+R. L. Burnside
+Tommy Castro
+Claudia Carawan
+Michael Coleman (blues musician)
+Joanna Connor
+Shemekia Copeland
+Murali Coryell
+Sean Costello
+Boo Boo Davis
+Guy Davis (musician)
+Thornetta Davis
+Johnny Drummer
+Chris Duarte
+Ronnie Earl
+Tinsley Ellis
+Sue Foley
+Anson Funderburgh
+Anthony Gomes
+Otis Grand
+Alvin Youngblood Hart
+Jeff Healey
+Matt Hill (musician)
+Ron Holloway
+Rick Holmstrom
+Colin James
+Johnny "Yard Dog" Jones
+Paul "Wine" Jones
+Gene Kelton
+Junior Kimbrough
+Chris Thomas King
+Little Jimmy King
+Davy Knowles
+Paul Lamb (musician)
+Jonny Lang
+Wolf Mail
+John Mayer
+Larry McCray
+Harry Manx
+Coco Montoya
+Bobby Murray (musician)
+Kenny Neal
+John N\xc3\xa9meth
+North Mississippi Allstars
+Blind Mississippi Morris
+Charlie Parr
+Neal Pattman
+Asie Payton
+Kelly Joe Phelps
+Ana Popovi\xc4\x87
+Roxanne Potvin
+Johnny Rawls
+Del Rey (musician)
+Mason Ruffner
+Matt Schofield
+Reggie Sears
+Todd Sharpville
+Kenny Wayne Shepherd
+Ian Siegal
+Bobby Sowell
+Dave Specter
+Cootie Stark
+Otis Taylor (musician)
+Susan Tedeschi
+Jimmy Thackery
+T-Model Ford
+Derek Trucks
+Redd Velvet
+Victor Wainwright
+Joe Louis Walker
+Seth Walker
+Kenny "Blues Boss" Wayne
+Jack White (musician)
+Rusty Zinn
+Yavuz \xc3\x87etin
+Dexter Allen
+Rene\xc3\xa9 Austin
+Debbie Davies
+Diunna Greenleaf
+Kelley Hunt
+Candye Kane
+Harold Arlen
+Wayne Baker Brooks
+Duke Ellington
+George Gershwin
+Johnny Cash
+Charlie Daniels
+Merle Haggard
+Jerry Lee Lewis
+Bill Monroe
+Moon Mullican
+Jimmie Rodgers (country singer)
+Hank Williams Sr.
+George Gershwin
+Arthur Honegger
+William Grant Still
+Ramon Goose
+Ali Farka Toure
+Alto Reed
+The Animals
+The Black Keys
+Black Rebel Motorcycle Club
+Blues Explosion
+Robert Bradley\'s Blackwater Surprise
+Nick Cave
+Clutch (band)
+Bob Dylan
+Ben Harper
+Steve Hunter
+The Kinks
+G. Love & Special Sauce
+Richard Johnston (musician)
+Norah Jones
+Chris Thomas King
+Lenny Kravitz
+Led Zeppelin
+Los Lonely Boys
+Hans Olson
+Robert Plant
+Bonnie Raitt
+The Rolling Stones
+Thin Lizzy
+The White Stripes
+The Who
+ZZ Top
+Whitesnake
+Bj\xc3\xb8rn Berge
+Cuby + Blizzards
+Herman Brood
+Oli Brown
+Eric Burdon
+Yavuz \xc3\x87etin
+Eric Clapton
+Cyril Davies
+Christian Dozzler
+Lonnie Donegan
+Elmore D
+Peter Green (musician)
+Rory Gallagher
+Jo Ann Kelly
+John Kirkbride
+Davy Knowles
+Alexis Korner
+Alvin Lee
+John Mayall
+Gary Moore
+Neal Pattman
+Ana Popovi\xc4\x87
+Matt Schofield
+Todd Sharpville
+Ian Siegal
+Mick Taylor
+Hans Theessink
+Fabio Treves
+Axel Zwingenberger
+Hugh Laurie
+Nuno Mindelis
+Pappo
+Carlos Santana
 Indian blues
-List of Chicago blues musicians
-Lists of musicians
-List of Piedmont blues musicians
  ****** List of blues rock musicians
 
 AC/DC
@@ -1630,17 +2709,14 @@ Jake Andrews
 The Animals
 The Answer (band)
 Arc Angels
-The Ardells#Steve Miller\'s Band
 Gwyn Ashton
 Atomic Rooster
-Aynsley Dunbar#Career
 Bachman\xe2\x80\x93Turner Overdrive
 Back Door Slam
 Bad Company
 Ginger Baker
 Long John Baldry
 Band of Skulls
-King Biscuit Boy#Career
 Lou Ann Barton
 Jeff Beck
 Duster Bennett
@@ -1705,7 +2781,6 @@ Chris Duarte
 Grainne Duffy
 Electric Flag
 Elf (band)
-Elvin Bishop#Career
 Endless Boogie (band)
 The Fabulous Thunderbirds
 Faces (band)
@@ -2006,7 +3081,6 @@ Venetian Snares
 Otto Von Schirach
 Wisp (musician)
 Xanopticon
-List of breakcore record labels
  ****** List of C-pop artists
 
 A-F\xc3\xbc (singer)
@@ -2180,18 +3254,6 @@ Sodagreen
 Super Junior-M
 TFBOYS
 Twins (group)
-List of Chinese musicians
-List of Hong Kong people
-List of J-pop artists
-List of K-pop artists
-List of Macau people
-List of Singaporeans
-List of Taiwanese people
-Music of China
-Music of Hong Kong
-Music of Macau
-Music of Singapore
-Music of Taiwan
  ****** List of calypso musicians
 
 Ajamu
@@ -2265,7 +3327,6 @@ Young Pretender
 Young Tiger
 Your Song Is Good
 Carnival Road March
-List of chutney musicians
 Lists of musicians
  ****** List of Canadian post-grunge bands
 
@@ -2294,15 +3355,6 @@ Theory of a Deadman
 Thornley (band)
 Three Days Grace
 The Watchmen (band)
-Post-grunge
-Grunge
-Alternative rock
-Alternative metal
-Nu metal
-List of post-grunge bands
-List of nu metal bands
-List of alternative rock artists
-List of alternative metal artists
  ****** List of Carnatic instrumentalists
 
 Lalgudi Jayaraman
@@ -2388,8 +3440,6 @@ Tripunithura Krishnadas
 Anayampatti S. Ganesan
 Seethalakshmi Doraiswamy
 R. Visweswaran
-Carnatic music
-South India
  ****** List of Celtic musicians
 
 Brenda Wootton
@@ -2452,7 +3502,6 @@ Seamus Egan
 Marc Gunn
 Emcee Lynx
 Solas (group)
-:Category:Irish folk musical groups
  ****** List of Christian ska bands
 
 The Deluxtone Rockets
@@ -2483,7 +3532,6 @@ Joy Electric
 Leiahdorus
 LZ7
 Mad at the World
-Matthew Parker
 Mortal (band)
 Owl City
 Purified (rapper)
@@ -2534,7 +3582,6 @@ Souljahz
 ZOEgirl
 1 Girl Nation
 Contemporary Christian music
-List of Christian bands and artists by genre
 CEDM
 Remix culture
  ****** List of 1970s Christian pop artists
@@ -2676,8 +3723,6 @@ Michael W. Smith
 NewSong
 Sandi Patty
 Take 6
-Contemporary Christian Music
-List of Christian bands and artists by genre
  ****** List of chutney musicians
 
 Babla & Kanchan
@@ -2690,7 +3735,6 @@ Drupatee Ramgoonai
 Heeralal Rampartap
 Adesh Samaroo
 Rakesh Yankaran
-List of calypso musicians
 Lists of musicians
  ****** List of country music performers
 
@@ -3189,6 +4233,7 @@ The Jordanaires
 Cledus T. Judd
 Naomi Judd
 The Judds
+Image:AlisonKraussCrossroads2007.jpg
 Christian Kane
 Kieran Kane
 Gay Kayler
@@ -3746,792 +4791,6 @@ Faron Young
 James & Michael Younger
 Zac Brown Band
 Zaca Creek
- ****** List of country performers by era
-
-Vernon Dalhart
-Jimmie Rodgers (country singer)
-The Carter Family
-Uncle Dave Macon
-Roy Acuff
-Jenny Lou Carson
-Patsy Montana
-Girls of the Golden West
-Ernest Tubb
-Al Dexter
-Red Foley
-Hank Snow
-Hank Williams
-Bill Monroe
-The Davis Sisters (country)
-Louvin Brothers
-Little Jimmy Dickens
-Goldie Hill
-Wilf Carter (musician)
-Jean Shepard
-Webb Pierce
-Kitty Wells
-Johnny Cash
-Ray Price (musician)
-Glen Campbell
-Woody Guthrie
-Bob Wills
-Bill Anderson (country music)
-Liz Anderson
-Lynn Anderson
-Deborah Allen
-Eddy Arnold
-Moe Bandy
-The Browns
-Glen Campbell
-Johnny Cash
-Patsy Cline
-David Allan Coe
-Jessi Colter
-John Conlee
-Skeeter Davis
-Mac Davis
-Jimmy Dean
-John Denver
-Roy Drusky
-Jimmy Martin
-Janie Fricke
-Lefty Frizzell
-Crystal Gayle
-Bobbie Gentry
-Don Gibson
-Merle Haggard
-Tom T. Hall
-Emmylou Harris
-Johnny Horton
-Jan Howard
-Stonewall Jackson (musician)
-Sonny James
-Wanda Jackson
-Waylon Jennings
-George Jones
-Kris Kristofferson
-k.d. lang
-Myrna Lorrie
-Loretta Lynn
-Barbara Mandrell
-Roger Miller
-Ronnie Milsap
-Melba Montgomery
-Anne Murray
-Willie Nelson
-Mickey Newbury
-Marie Osmond
-Norma Jean (singer)
-Buck Owens
-Dolly Parton
-Ray Price (musician)
-Charley Pride
-Jeanne Pruett
-Bonnie Raitt
-Susan Raye
-Jim Reeves
-Charlie Rich
-Marty Robbins
-Jeannie C. Riley
-Kenny Rogers
-Jeannie Seely
-Billy Joe Shaver
-Connie Smith
-Margo Smith
-Sammi Smith
-Sylvia (singer)
-Billie Jo Spears
-Ray Stevens
-Mel Tillis
-Tanya Tucker
-Conway Twitty
-Townes Van Zandt
-Porter Wagoner
-Gene Watson
-Dottie West
-The Wilburn Brothers
-Don Williams
-Hank Williams, Jr.
-Tammy Wynette
-Faron Young
-Ferlin Husky
-Hank Locklin
-38 Special (band)
-The Allman Brothers Band
-The Band
-Black Oak Arkansas
-Blackberry Smoke
-Blackfoot (band)
-The Byrds
-Charlie Daniels Band
-Gene Clark
-Commander Cody and His Lost Planet Airmen
-Creedence Clearwater Revival
-Desert Rose Band
-The Eagles
-The Everly Brothers
-The First Edition (band)
-Flying Burrito Brothers
-Kinky Friedman
-Grateful Dead
-Emmylou Harris
-Heartsfield
-Kane (US band)
-The Kentucky Headhunters
-Chris LeDoux
-Lynyrd Skynyrd
-Marshall Tucker Band
-Ricky Nelson
-Michael Nesmith
-New Riders of the Purple Sage
-Juice Newton
-Nitty Gritty Dirt Band
-Ozark Mountain Daredevils
-Gram Parsons
-Poco
-Pure Prairie League
-John Rich (musician)
-Linda Ronstadt
-Southern Pacific (band)
-Gary Stewart (singer)
-Steve Young (musician)
-Sasha Pieterse
-Alabama (band)
-John Anderson (musician)
-Asleep at the Wheel
-Johnny Cash
-Alan Jackson
-Rosanne Cash
-John Conlee
-Earl Thomas Conley
-Rodney Crowell
-Charlie Daniels
-Leon Everette
-Vern Gosdin
-Merle Haggard
-Waylon Jennings
-George Jones
-The Judds
-Chris LeDoux
-Johnny Lee (singer)
-Loretta Lynn
-Kathy Mattea
-Barbara Mandrell
-Mel McDaniel
-Reba McEntire
-Ronnie Milsap
-Gary Morris
-Willie Nelson
-Oak Ridge Boys
-Marie Osmond
-Dolly Parton
-Eddie Rabbitt
-Eddy Raven
-Kenny Rogers
-John Schneider (screen actor)
-Ricky Skaggs
-The Statler Brothers
-George Strait
-Randy Travis
-Conway Twitty
-Steve Wariner
-Dottie West
-Hank Williams, Jr.
-Tammy Wynette
-Alabama (band)
-Alan Jackson
-John Anderson (musician)
-Asleep at the Wheel
-Clint Black
-Garth Brooks
-Sawyer Brown
-Johnny Cash
-Rosanne Cash
-John Conlee
-Earl Thomas Conley
-Rodney Crowell
-Charlie Daniels
-Holly Dunn
-Skip Ewing
-Vince Gill
-Vern Gosdin
-Merle Haggard
-Highway 101 (band)
-Scott McQuaig
-Waylon Jennings
-Chris LeDoux
-Patty Loveless
-Lyle Lovett
-Loretta Lynn
-Barbara Mandrell
-Kathy Mattea
-Mel McDaniel
-Ronnie McDowell
-Reba McEntire
-Ronnie Milsap
-Gary Morris
-Willie Nelson
-K.T. Oslin
-Dolly Parton
-Eddie Rabbitt
-Eddy Raven
-Kenny Rogers
-John Schneider (screen actor)
-Ricky Van Shelton
-Ricky Skaggs
-The Statler Brothers
-George Strait
-Randy Travis
-Travis Tritt
-Conway Twitty
-Keith Whitley
-Hank Williams, Jr.
-Tammy Wynette
-Dwight Yoakam
-Alabama (band)
-John Anderson (musician)
-Clint Black
-BlackHawk
-Suzy Bogguss
-Brooks & Dunn
-Garth Brooks
-Tracy Byrd
-Mary Chapin Carpenter
-Carlene Carter
-Johnny Cash
-Rosanne Cash
-Kenny Chesney
-Mark Chesnutt
-Terri Clark
-Mark Collie
-Earl Thomas Conley
-Rodney Crowell
-Bobbie Cryner
-Heather Myles
-Billy Ray Cyrus
-Charlie Daniels
-Billy Dean
-Diamond Rio
-Joe Diffie
-Skip Ewing
-Radney Foster
-Vince Gill
-Faith Hill
-Merle Haggard
-Highway 101 (band)
-Alan Jackson
-Waylon Jennings
-George Jones
-Wynonna Judd
-Toby Keith
-David Kersh
-Sammy Kershaw
-Hal Ketchum
-Alison Krauss
-Tracy Lawrence
-Chris LeDoux
-Little Texas (band)
-Patty Loveless
-Lyle Lovett
-Kathy Mattea
-Martina McBride
-McBride and the Ride
-Neal McCoy
-Reba McEntire
-Tim McGraw
-Ronnie Milsap
-John Michael Montgomery
-Lorrie Morgan
-David Lee Murphy
-Willie Nelson
-K.T. Oslin
-Dolly Parton
-Perfect Stranger (band)
-Pirates of the Mississippi
-Eddie Rabbitt
-Collin Raye
-Kenny Rogers
-Sawyer Brown
-Ricky Van Shelton
-Shenandoah (band)
-Ricky Skaggs
-The Statler Brothers
-Doug Stone
-George Strait
-Marty Stuart
-Doug Supernaw
-Sweethearts of the Rodeo
-Pam Tillis
-Rick Tippe
-Aaron Tippin
-Randy Travis
-Rick Trevino
-Travis Tritt
-Shania Twain
-Conway Twitty
-Clay Walker
-Steve Wariner
-Western Flyer
-Lari White
-Keith Whitley
-Hank Williams, Jr.
-Kelly Willis
-Tammy Wynette
-Trisha Yearwood
-Dwight Yoakam
-Trace Adkins
-Rhett Akins
-Alabama (band)
-John Anderson (musician)
-Jessica Andrews
-Asleep at the Wheel
-Clint Black
-Blackhawk (band)
-James Bonamy
-Brooks & Dunn
-Garth Brooks
-Tracy Byrd
-Mary Chapin Carpenter
-Deana Carter
-Johnny Cash
-Rosanne Cash
-Kenny Chesney
-Mark Chesnutt
-Terri Clark
-Confederate Railroad
-Billy Ray Cyrus
-Billy Dean
-Diamond Rio
-Joe Diffie
-Dixie Chicks
-Sara Evans
-Skip Ewing
-Vince Gill
-Andy Griggs
-Merle Haggard
-Wade Hayes
-Ty Herndon
-Faith Hill
-Alan Jackson
-Waylon Jennings
-Johner Brothers
-George Jones
-Toby Keith
-Sammy Kershaw
-Alison Krauss
-Tracy Lawrence
-Chris LeDoux
-Little Texas (band)
-Lonestar
-Patty Loveless
-Lyle Lovett
-Kathy Mattea
-Martina McBride
-Neal McCoy
-Lila McCann
-Mindy McCready
-Reba McEntire
-Tim McGraw
-Jo Dee Messina
-John Michael Montgomery
-Willie Nelson
-Brad Paisley
-Dolly Parton
-Michael Peterson (singer)
-Eddie Rabbitt
-Collin Raye
-LeAnn Rimes
-Kenny Rogers
-Sawyer Brown
-SHeDAISY
-Shenandoah (band)
-George Strait
-Pam Tillis
-Rick Tippe
-Aaron Tippin
-The Tractors
-Randy Travis
-Rick Trevino
-Travis Tritt
-Shania Twain
-Keith Urban
-Rhonda Vincent
-Bryan White
-Lari White
-Hank Williams, Jr.
-Chely Wright
-Tammy Wynette
-Trisha Yearwood
-Trace Adkins
-Lauren Alaina
-Alabama
-Jason Aldean
-Gary Allan
-Keith Anderson
-Rodney Atkins
-Sherrie Austin
-The Band Perry
-Dierks Bentley
-Big & Rich
-Ryan Bingham
-Clint Black
-Blackberry Smoke
-Bomshel
-Paul Brandt
-Lee Brice
-Chad Brock
-Dean Brody
-Brooks & Dunn
-Garth Brooks
-Luke Bryan
-Laura Bell Bundy
-Sarah Buxton
-Tracy Byrd
-Chris Cagle
-Carolina Rain
-Jason Michael Carroll
-Kenny Chesney
-Trailer Choir
-Eric Church
-Terri Clark
-Confederate Railroad
-Easton Corbin
-Bucky Covington
-Crossin Dixon
-Billy Currington
-Amy Dalley
-Billy Dean
-Diamond Rio
-Dixie Chicks
-Emerson Drive
-Sara Evans
-Jessie Farrell
-Brantley Gilbert
-Vince Gill
-Gloriana (band)
-Danny Gokey
-Josh Gracin
-Pat Green
-Andy Griggs
-Halfway to Hazard
-Heartland (band)
-The Higgins
-Faith Hill
-Steve Holy
-Julianne Hough
-Randy Houser
-Jack Ingram
-Alan Jackson
-Jessie James
-Jaron and the Long Road to Love
-Jewel (singer)
-Buddy Jewell
-Brad Johner
-Carolyn Dawn Johnson
-Jamey Johnson
-Toby Keith
-Josh Kelley
-Alison Krauss
-Lady Antebellum
-Miranda Lambert
-Tracy Lawrence
-Chris LeDoux
-Aaron Lewis
-Little Big Town
-Lonestar
-Love and Theft (band)
-Lyle Lovett
-Martina McBride
-Scotty McCreery
-Reba McEntire
-Tim McGraw
-Jo Dee Messina
-Montgomery Gentry
-John Michael Montgomery
-Justin Moore (singer)
-Craig Morgan (singer)
-Megan Mullins
-Heidi Newfield
-Gary Nichols
-Joe Nichols
-One More Girl
-Jamie O\'Neal
-James Otto
-Jake Owen
-Brad Paisley
-Danielle Peck
-Kellie Pickler
-Randy Rogers Band
-Rascal Flatts
-LeAnn Rimes
-Julie Roberts
-Kid Rock
-Kenny Rogers
-Darius Rucker
-Rushlow
-Crystal Shawanda
-Blake Shelton
-Ashton Shepherd
-Ricky Skaggs
-Steve Miller Band
-George Strait
-Taylor Swift
-Sugarland
-Taylor Swift
-Cyndi Thomson
-Aaron Tippin
-Rick Tippe
-Trent Tomlinson
-Trick Pony
-Travis Tritt
-Josh Turner
-Shania Twain
-Uncle Kracker
-Carrie Underwood
-Keith Urban
-Phil Vassar
-Clay Walker
-Jimmy Wayne
-Emily West
-Whiskey Falls
-Chuck Wicks
-Hank Williams III
-Trent Willmon
-Mark Wills
-Gretchen Wilson
-Lee Ann Womack
-Darryl Worley
-The Wreckers
-Chely Wright
-Trisha Yearwood
-Dwight Yoakam
-Chris Young (musician)
-Zac Brown Band
-Aaron Lewis
-Alan Jackson
-Alison Krauss & Union Station
-Andy Gibson (singer)
-Ashley Monroe
-Ashton Shepherd
-The Band Perry
-Big & Rich
-Big Kenny
-Billy Craig
-Billy Currington
-Blackberry Smoke
-Blaine Larson
-Blake Shelton
-Bomshel
-Brad Paisley
-Brantley Gilbert
-Brett Eldredge
-Brooks & Dunn
-Bucky Covington
-Caitlin & Will
-Carrie Underwood
-Casey James
-Cassadee Pope
-Chris Cagle
-Chris Young (musician)
-Chuck Wicks
-Clay Walker
-Colt Ford
-Cole Swindell
-Corey Smith (musician)
-Craig Campbell (singer)
-Craig Morgan
-Cross Canadian Ragweed
-Crossin Dixon
-Danielle Peck
-Danny Gokey
-Darius Rucker
-Darryl Worley
-David Nail
-Dean Brody
-Dierks Bentley
-Dolly Parton
-Dustin Lynch
-Easton Corbin
-Edens Edge
-Eli Young Band
-Emily West
-Eric Church
-Eric Paslay
-Faith Hill
-Florida Georgia Line
-Frankie Ballard
-Gary Allan
-George Strait
-Gloriana (band)
-Gretchen Wilson
-Hank Williams, Jr.
-Hank Williams III
-Heidi Newfield
-Hunter Hayes
-The JaneDear Girls
-Jack Ingram
-Jake Owen
-Jamie Lynn Spears
-James Otto
-James Wesley
-Jamey Johnson
-Jana Kramer
-Jaron and the Long Road to Love
-Jason Aldean
-Jason Michael Carroll
-JB and the Moonshine Band
-Jennette McCurdy
-Jerrod Niemann
-Jessica Harp
-Jessie James
-Jewel (singer)
-Jimmy Wayne
-Jo Dee Messina
-Joe Nichols
-Joey + Rory
-Jon Pardi
-Josh Abbott Band
-Josh Gracin
-Josh Kelley
-Josh Thompson (singer)
-Josh Turner
-JT Hodges
-Julianne Hough
-Justin Moore
-Kacey Musgraves
-Keith Anderson
-Keith Urban
-Kellie Pickler
-Kelly Clarkson
-Kenny Chesney
-Kevin Fowler
-Kid Rock
-Kip Moore
-Kix Brooks
-Kristin Chenoweth
-The Lacs
-Lady Antebellum
-Laura Bell Bundy
-Lauren Alaina
-LeAnn Rimes
-Lee Ann Womack
-Lee Brice
-Little Big Town
-LoCash Cowboys
-Lonestar
-The Lost Trailers
-Love and Theft (band)
-Lucy Hale
-Luke Bryan
-Lyle Lovett
-Mark Chesnutt
-Mark Wills
-Martina McBride
-Matt Kennon
-Matt Mason (singer)
-Marty Stuart
-Michelle Branch
-Miranda Lambert
-Miss Willie Brown
-Montgomery Gentry
-Pat Green
-Phil Vassar
-Pistol Annies
-Randy Houser
-Randy Montana
-Randy Travis
-Rascall Flatts
-Reba McEntire
-Reckless Kelly
-Rodney Atkins
-Ronnie Dunn
-Rose Falcon
-Rosanne Cash
-Sam Hunt (musician)
-Sara Evans
-Sarah Buxton
-Sarah Darling
-Sasha Pieterse
-Scotty McCreery
-Shania Twain
-Sheryl Crow
-Shooter Jennings
-Skylar Laine
-Steel Magnolia
-Steve Azar
-Steve Earl
-Steve Holy
-Sugarland
-Sunny Sweeney
-Taylor Swift
-Terri Clark
-The Dirt Daubers
-The Farm (U.S. band)
-The Henningsens
-Thomas Rhett
-Thompson Square
-Tim McGraw
-Trace Adkins
-Tracy Lawrence
-Trailer Choir
-Trent Tomlinson
-Toby Keith
-Troy Olsen
-Tyler Farr
-Uncle Kracker
-Walker Hayes
-Whitney Duncan
-Willie Nelson
-Wynonna
-Zac Brown Band
-Aaron Pritchett
-Aaron Watson
-Abra Moore
-Adam Carroll
-Allison Moorer
-Asylum Street Spankers
-Augie Meyers
-Blue Rodeo
-Bottle Rockets
-BR5-49
-Chris Knight (musician)
-Corb Lund and the Hurtin\' Albertans
-Dean Brody
-Deric Ruttan
-Django Walker
-Emerson Drive
-George Canyon
-Gord Bamford
-Hammer Down
-High Valley
-Jack Ingram
-James Lann
-Jason McCoy
-Jaydee Bixby
-Jerry Jeff Walker
-Josh Abbott Band
-Kasey Chambers
-Kyle Park
-Max Stalling
-Mike Hernandez
-Pat Green
-Paul Brandt
-Randy Rogers Band
-Ray Wylie Hubbard
-Reckless Kelly
-Ridley Bent
-Robert Earl Keen
-Shane Yellowbird
-Steve Earle
-Steven Lee Olsen
-Terri Clark
-The Hangdogs
-Wade Bowen
-Ilse de Lange
-Dream Rovers
-Lonnie Lee
-Sasha Pieterse
-List of country music performers
  ****** List of country rock musicians
 
 A Thousand Horses
@@ -4893,7 +5152,6 @@ Girl\'s Day
 Girls\' Generation
 GLAM (band)
 Gloria Estefan
-Selena Gomez
 GP Basic
 Gwen Stefani
 Hanson & Davis
@@ -5052,7 +5310,6 @@ Young Paperboyz
 ZE:A
  ****** List of dance-punk artists
 
-!!!
 Aerodrone
 The Automatic
 ADULT.
@@ -5132,7 +5389,6 @@ You Say Party
 Zero Zero (band)
  ****** List of dance-rock artists
 
-!!!
 ABC (band)
 And Then There Were None (band)
 The B-52\'s
@@ -5431,8 +5687,558 @@ Veronique Chevalier
 The World/Inferno Friendship Society
  ****** List of death metal bands
 
-List of death metal bands, !\xe2\x80\x93K
-List of death metal bands, L\xe2\x80\x93Z
+!T.O.O.H.!
+8 Foot Sativa
+A Different Breed of Killer
+Abaddon Incarnate
+Abhorrence
+Ablaze My Sorrow
+Aborted
+Abramelin (band)
+Abscess (band)
+The Absence
+Abysmal Dawn
+Abysmal Torment
+Acheron (band)
+Acid Bath
+Aeon (band)
+Aeternus
+Afflicted (band)
+The Agonist
+Akercocke
+Alchemist (band)
+Aletheian
+Altar (Dutch band)
+The Amenta
+Amon Amarth
+Amoral (band)
+Amorphis
+Anata
+Anathema (band)
+Angel Corpse
+Animosity (band)
+Antestor
+Anvil of Doom
+Made of Hate
+Arch Enemy
+Architects (British band)
+Arise (band)
+Armageddon (band)
+Armoured Angel
+Arsis
+Asesino
+Asphyx
+As I Lay Dying (band)
+Ass\xc3\xbcck
+Atheist (band)
+Atrocity (band)
+Atrophia Red Sun
+At the Gates
+Austrian Death Machine
+Autopsy (band)
+Autopsy Torment
+Avulsed
+Babymetal
+Battlelore
+Becoming the Archetype
+Beheaded (band)
+Behemoth (band)
+Belphegor (band)
+Benea Reach
+Beneath the Massacre
+Benediction (band)
+Benighted
+The Berzerker
+Bestial Warlust
+Between the Buried and Me
+Beyond the Sixth Seal
+Bilocate
+The Black Dahlia Murder (band)
+Blinded Colony
+Blo.Torch
+Bloodbath
+Blood Duster
+Blood Red Throne
+Blood Stain Child
+Bolt Thrower (band)
+Born of Osiris
+Brain Drill
+Brodequin (band)
+Broken Hope
+Brujeria (band)
+Brutal Truth
+Brutality (band)
+Burgerkill
+Burning Inside
+By Night
+Cadacross
+Cadaver (band)
+Callenish Circle
+Cancer (band)
+Caninus (band)
+Cannibal Corpse
+Capharnaum (band)
+Carbonized
+Carcariass
+Carcass (band)
+Cardinal Sin (band)
+Carnage (band)
+Carnival in Coal
+Cattle Decapitation
+Cavalera Conspiracy
+Celtic Frost
+Cemetary (band)
+Cephalic Carnage
+Cenotaph (band)
+Centinex
+Ceremonial Oath
+Chain Collector
+Changer
+The Chasm (band)
+Children of Bodom
+Circle of Dead Children
+Coercion (band)
+Coldworker
+Columns (band)
+Comecon (band)
+The Concubine
+Condemned (Irish band)
+Consolation (band)
+Coprofago (band)
+Corpus Mortale
+The County Medical Examiners
+Crackdust
+Cradle of Filth
+Crimson Death (band)
+Crimson Thorn
+The Crimson Armada
+Crionics
+The Crown (band)
+Cryogenic (band)
+Cryptopsy
+Cynic (band)
+D\xc3\xa5\xc3\xa5th
+Dam (band)
+Damaged (band)
+Dance Club Massacre
+Dark Age (band)
+Dark Heresy
+Dark Lunacy
+Dark Tranquillity
+Darkest Hour (band)
+Darkthrone
+Dawn of Azazel
+Daylight Dies
+Dead Horse (band)
+Dead Infection
+Deadlock (metal band)
+Death (metal band)
+Death Breath
+Death Organ
+Deathbound
+Deathchain
+Debauchery (band)
+Decadence (band)
+Decapitated (band)
+Deceased (band)
+Decrepit Birth
+Deeds of Flesh
+Defeated Sanity
+Defecation (band)
+Defleshed
+Deicide (band)
+Demenzia
+Demigod (band)
+Demilich (band)
+Demiricous
+Demonoid (band)
+Desecration (band)
+Despised Icon
+Despite (band)
+Destroy Destroy Destroy
+Desultory (band)
+Dethklok
+Detonation (band)
+Deuteronomium (band)
+Devian
+Devildriver
+Devilish Impressions
+Devolved (band)
+Devourment
+Diablo (band)
+Diabolic
+Die Apokalyptischen Reiter
+Dies Irae (band)
+Dim Mak (band)
+Dimension Zero (Swedish band)
+Disarmonia Mundi
+Disaster KFW
+Disavowed
+Disbelief
+Disentomb
+Disgorge (American band)
+Disharmonic Orchestra
+Disillusion (band)
+Disincarnate
+Diskreet
+Dismember (band)
+Dispatched
+Dissection (band)
+Distorted
+Divine Heresy
+Dominion (Swedish band)
+Dominus (band)
+Dr. Shrinker (band)
+Drottnar
+The Duskfall
+Dying Fetus
+Dylath-Leen (band)
+Ebony Tears
+Edge of Sanity
+Elysia (band)
+Elysium (band)
+Embalmer (band)
+Embodyment
+Ensiferum
+Entombed (band)
+Epoch of Unlight
+Eternal Lord
+Eternal Tears of Sorrow
+Eternal Oath
+Eucharist (band)
+Evoken
+Ex Deo
+Exhumed (band)
+Expulsion (band)
+Extol
+Extreme Noise Terror
+Face Down (band)
+The Faceless
+The Fading
+Falchion (band)
+Farmakon (band)
+Fear Factory
+Fear My Thoughts
+Feast Eternal
+Festerday
+Fission (band)
+Fleshcrawl
+Fleshgod Apocalypse
+Fleshgore
+Fragments of Unbecoming
+From a Second Story Window
+Frontside (band)
+The Funeral Pyre
+Gandalf (Finnish band)
+Gates of Ishtar
+The Gathering (band)
+Gehenna (band)
+General Surgery (band)
+Ghost Brigade (band)
+Ghoul (band)
+Glass Casket
+Goatlord (band)
+Goatwhore
+God Dethroned
+God Forbid
+God Macabre
+Godgory
+Gojira (band)
+Gone Postal (band)
+Goreaphobia
+Gorefest
+Gorelord
+Gorerotted
+Gorguts
+Gory Blister
+Grave (band)
+Graves of Valor
+Grenouer
+Grief of War
+Grotesque (band)
+GUT (band)
+Gutworm
+Hacride
+Haemorrhage (band)
+Haggard (band)
+Hate (band)
+Hatebeak
+Hate Eternal
+Hatesphere
+The Haunted
+Hearse (band)
+Heaven Shall Burn
+Hecate Enthroned
+Hellhammer
+Hibernus Mortis
+Helltrain
+Hollenthon
+Human (band)
+Hybrid (metal band)
+Hypocrisy (band)
+Illdisposed
+Immolation (band)
+Immortal Souls
+Impaled (band)
+Impaled Nazarene
+Impending Doom (American band)
+Impending Doom (German band)
+Impetigo (band)
+In Battle
+In Flames
+In Mourning (band)
+In-Quest
+Inactive Messiah
+Incantation (band)
+Inevitable End
+Infected Malignity
+Infernal Majesty
+Infernal Method (band)
+Inhumate
+Inhume (band)
+Iniquity (band)
+Insision
+Insomnium
+Internal Suffering
+Into Eternity (band)
+Into the Moat
+Inveracity
+Job for a Cowboy
+Jungle Rot
+Kaamos (Swedish band)
+Kalmah
+Katafalk
+Kataklysm
+Katatonia
+Kekal
+Killing Addiction
+Kinetic (band)
+Knights of the Abyss
+Konkhra
+Krabathor
+Krisiun
+Kronos (band)
+
+
+Legion of the Damned (band)
+Leng Tch\'e
+Liers in Wait
+Living Sacrifice
+Lock Up (UK band)
+Lost Soul (band)
+Loudblast
+Lyzanxia
+Macabre (band)
+Machinemade God
+Malefice
+Malevolence (band)
+Malevolent Creation
+Manimal (band)
+Marionette (Band)
+Martyr (band)
+Massacra
+Massacre (metal band)
+Master (American band)
+Mayhem (band)
+Mendeed
+Mental Horror
+Mercenary (band)
+Merlin (metal band)
+Meshuggah
+Messiah (Swiss band)
+Misanthrope (band)
+Miseration
+Misery (Australian band)
+Misery Index (band)
+Mistress (band)
+Mnemic
+Molotov Solution
+Monstrosity (band)
+Morbid Angel
+Morgion (band)
+Morgoth (band)
+Morphia (Dutch band)
+Mors Principium Est
+Mortem (band)
+Mortician (band)
+Mortification (band)
+Murder Squad
+My Dying Bride
+myGRAIN
+Myrkskog
+Nahemah (band)
+Nail Within
+Naildown
+Nailed (band)
+Napalm Death
+Nasum
+Neaera (band)
+Necare
+Necrophagia
+Necrophagist
+Necrophobic
+Nefastus Dies
+Nefilim
+Negativa
+Nembrionic
+Neptune (Italian band)
+Neuraxis (band)
+Nightfall (band)
+Nightrage
+Nights Like These (band)
+Nihilist (band)
+Nile (band)
+Nocturnus
+NonExist
+Norther
+Noumena (band)
+Novembre (band)
+Nuclear Death
+Obituary (band)
+Obliterate
+Obscene Eulogy
+Obscura (band)
+Oceano (band)
+October Tide
+Odious Mortem
+OGRE
+Old Man\'s Child
+Omnium Gatherum
+On Thorns I Lay
+One Man Army and the Undead Quartet
+Opeth
+Ophiolatry (band)
+Oppressor
+Opprobrium (band)
+Order from Chaos
+Origin (metal band)
+Orphaned Land
+Paganizer
+Painstruck
+Panzerchrist
+Paradise Lost (band)
+Paradox (British band)
+Pavor
+Paths of Possession
+Persefone
+Pestilence (band)
+Pig Destroyer
+Portal (Metal band)
+Possessed (band)
+Postmortem (band)
+The Project Hate MCMXCIX
+Prostitute Disfigurement
+Psycroptic
+Pungent Stench
+Pyogenesis
+Pyorrhoea
+Quo Vadis (band)
+Raise Hell
+Raintime
+Rapture (band)
+Raunchy (band)
+Rebaelliun
+The Red Chord
+The Red Death
+The Red Shore
+Regurgitate (band)
+Ribspreader
+Ripping Corpse
+The Rotted
+Rotten Sound
+Rudra (band)
+Runemagick
+Sacrificium
+Sadist (band)
+Sadistic Intent
+Sadistik Exekution
+Sadus (band)
+Salt the Wound
+Sarc\xc3\xb3fago
+Satariel (band)
+Saturnus (band)
+Scar Symmetry
+Scarve
+Sceptic (band)
+Sculptured
+Seance (band)
+Sentenced
+Septic Flesh
+Sepultura
+Severe Torture
+Shadows Fall
+Shot Down Sun
+The Showdown (band)
+Sinate
+Sinister (band)
+Six Feet Under (band)
+Skinless
+Skyfire (band)
+Slaughter (Canadian band)
+Soilent Green
+Soils of Fate
+Soilwork
+Solution .45
+Sonic Syndicate
+Sons of Azrael
+Sotajumala
+Soul Demise
+Soul Embraced
+Soulburn
+Soulscar
+Spawn of Possession
+Stovokor (band)
+Strapping Young Lad
+Success Will Write Apocalypse Across the Sky
+Suffocation (band)
+Susperia
+Swallow the Sun
+Switchblade (band)
+Sylosis
+Sympathy (band)
+Terror 2000
+Terrorizer
+Terrorust
+Thanatos (band)
+ThanatoSchizO
+Theory in Practice
+Therion (band)
+Thirdmoon
+This Ending
+Thorr\'s Hammer
+Threat Signal
+Through the Eyes of the Dead (band)
+Thy Disease
+Tiamat (band)
+Torture Killer
+Torture Squad
+Touch of Death
+Tourniquet (band)
+Trap Them
+Tristwood
+Unanimated
+Underoath
+Unleashed (band)
+Vader (band)
+Vehemence
+Vile (band)
+Visceral Bleeding
+Vital Remains
+Vomit Remnants
+Vomitory (band)
+Vorkreist
+Waltari
+War (Swedish band)
+Wayd
+Whitechapel (band)
+Winter (American band)
+With Blood Comes Cleansing
+Xenomorph (Band)
+Xysma
+Yyrkoon (band)
+Zao (American band)
+Zonaria
+Zyklon
  ****** List of deathcore artists
 
 The Acacia Strain
@@ -5496,23 +6302,617 @@ Waking the Cadaver
 Whitechapel (band)
 Winds of Plague
 With Blood Comes Cleansing
-List of death metal bands, !\xe2\x80\x93K
-List of death metal bands, L\xe2\x80\x93Z
-List of metalcore bands
  ****** List of disco artists
 
-List of disco artists (A-E)
-List of disco artists (F-K)
-List of disco artists (L-R)
-List of disco artists (S-Z)
- ****** List of disco artists (A-E)
-
- ****** List of disco artists (F-K)
-
- ****** List of disco artists (L-R)
-
- ****** List of disco artists (S-Z)
-
+5000 Volts
+The 5th Dimension
+101 Strings
+A Taste of Honey (band)
+ABBA
+Addrisi Brothers
+Adriano Celentano
+Al Downing (musician)
+One Way (American band)
+Al Martino
+Alec R. Costandinos
+Alicia Bridges
+Alton McClain & Destiny
+Amanda Lear
+Amii Stewart
+Andr\xc3\xa9 Gagnon
+Andrea True Connection
+Andy Gibb
+Andy Williams
+Angela Bofill
+Anita Ward
+Ann-Margret
+Arabesque (group)
+Archie Bell & the Drells
+Aretha Franklin
+Arthur Prysock
+Asha Puthli
+Ashford & Simpson
+Atlantic Starr
+Baccara
+Christian Baciotti
+Barbara Law
+Barbara Mason
+Barbara Pennington
+Barbra Streisand
+Barry Manilow
+Barry White
+Barrab\xc3\xa1s
+Bazuka (band)
+The Beach Boys
+Bebu Silvetti
+Bee Gees
+Bell & James
+Belle Epoque (band)
+Ben E. King
+Benny Golson
+Bette Midler
+Bettye Lavette
+Beverly Johnson
+Biddu Orchestra
+Bill Anderson (singer)
+Bill Brandon
+Bill Summers (musician)
+Bill Withers
+Billy Joel
+Billy Nichols
+Billy Ocean
+Billy Paul
+Billy Preston
+Gregg Diamond
+Bisquit
+Blondie (band)
+Blue Magic (band)
+The Bob Crewe Generation
+Bob Welch (musician)
+Bobby Rydell
+Bobby Womack
+The Body Shop
+Boney M
+Bonnie Pointer
+Boz Scaggs
+Brass Construction
+Bonnie Tyler
+Brainstorm (disco band)
+Brenda and the Tabulations
+Brick (band)
+The Brides of Funkenstein
+The Brothers Johnson
+Bruce Johnston
+Bryan Adams
+Bunny Sigler
+B.T. Express
+Cab Calloway
+C.J. & Company
+Cake (band)
+Candi Staton
+Carl Bean
+Carl Carlton
+Carl Douglas
+Carly Simon
+Carol Douglas
+Carol Williams (musician)
+Carol Woods
+Carole Bayer Sager
+Carole King
+Carrie Lucas
+Cedar Walton
+Celi Bee
+Cerrone
+The Chakachas
+Chaka Khan
+Chanson (band)
+Charles Earland
+Charo
+Cher
+Ch\xc3\xa9ri (band)
+Cheryl Ladd
+Cheryl Lynn
+Cherry Laine
+The Chi-Lites
+Chic (band)
+Chicago (band)
+Chilly (band)
+Trevor Horn
+Chuck Cissel
+Chuck Mangione
+Cissy Houston
+Clarence Reid
+Claudia Cardinale
+Claudja Barry
+Clem Curtis
+Cleveland Eaton
+The Commodores
+Connie Francis
+Connie Smith
+Crown Heights Affair
+The Crusaders
+Curtis Mayfield
+Cy Coleman
+Daddy Dewdrop
+Dalida
+Dame Edna Everage
+Damon Harris
+Dan Hartman
+Dalton and Dubarri
+Dana Rosemary Scallon
+Danny White
+Dave Grusin
+David Bowie
+David Naughton (actor)
+David Ruffin
+D.C. LaRue
+Dee D. Jackson
+Dee Edwards (singer)
+Delegation
+The Dells
+Demis Roussos
+Denise LaSalle
+Denise McCann
+Deodato
+Desmond Child and Rouge
+Destination (disco group)
+The Detroit Emeralds
+Dexter Wansel
+The Diamond Dolls
+Diana Ross
+Dionne Warwick
+Disco-Tex and the Sex-O-Lettes
+Discopolis
+Dizzie Gillespie
+Dobie Gray
+Doc Severinsen
+Dollar (band)
+Dolly Parton
+Don Covay
+Don Ray
+Donnie Elbert
+Donna Summer
+Donny and Marie Osmond
+Doobie Brothers
+Doris Troy
+Dorothy Moore
+Dr. Buzzard\'s Original Savannah Band
+Dr. Hook
+Dream Express
+Duncan Sisters
+Dynasty (band)
+Eagles (band)
+The Earls
+Earl Klugh
+Earth, Wind & Fire
+Ecstasy, Passion & Pain
+Eddie Floyd
+Eddie Kendricks
+Eddie Money
+Edwin Starr
+El Coco
+Electric Light Orchestra
+Elliot Lurie
+Eloise Laws
+Elton John
+Emotions (band)
+Enchantment (band)
+Engelbert Humperdinck (singer)
+Ennio Morricone
+Ernie Fields Jr.
+Eruption (band)
+Esther Phillips
+Esther Williams
+Ethel Merman
+Eugene Record
+Evelyn "Champagne" King
+Evelyn Thomas
+Faith, Hope & Charity
+Fantastic Four
+Fat Larry\'s Band
+Fatback Band
+Ferrante & Teicher
+Fern Kinney
+The Fiestas
+First Choice (band)
+The Floaters
+Floyd Smith
+Four Tops
+Foxy (band)
+France Joli
+Frank Sinatra
+Frankie Avalon
+Frankie Valli
+Frantique
+Freda Payne
+Free Life
+French Champagne
+Funkadelic
+GQ (band)
+Ganymed (band)
+Gap Band
+Gap Mangione
+Garnett Mimms
+Gary\'s Gang
+Gateway (band)
+Gene Chandler
+Gene Page
+General Johnson
+George Benson
+George Bussey
+George McCrae
+Geraldine Hunt
+Gibson Brothers
+Gino Soccio
+Gladys Knight
+Gladys Knight & the Pips
+Glen Campbell
+Gloria Estefan
+Gloria Gaynor
+Gloria Jones
+Gloria Scott (singer)
+Goody Goody
+Gotham (band)
+Grace Jones
+Graham Bonnett
+Grateful Dead
+Gregg Diamond
+Gwen McCrae
+Hamilton Bohannon
+Harold Melvin & the Blue Notes
+Harry Thumann
+Harvey Mason
+Harvey Scales
+Helen Reddy
+Heatwave (band)
+Hemlock (band)
+Herbie Hancock
+Herbie Mann
+Herman Kelly and Life
+High Inergy
+The Hollies
+Hot Chocolate (band)
+Houston Person
+The Hues Corporation
+Idris Muhammad
+The Imperials
+The Impressions (American band)
+Inner Life
+Instant Funk
+Isaac Hayes
+The Isley Brothers
+Jack Jones (singer)
+Jackie Moore (singer)
+The Jackson 5
+The Jacksons
+James & Bobby Purify
+James Brown
+James Taylor
+Janice McClain
+Jay Black
+Jeanette Washington
+Jeanne Napoli
+Jermaine Jackson
+Jesse Green
+Jimmy Castor Bunch
+Jimmy "Bo" Horne
+Jimmy James (singer)
+Jimmy McGriff
+J.J. Barnes
+Joe Farrell
+Joe Simon (musician)
+Joe Tex
+Joel Diamond
+Joey Travolta
+John Davis and the Monster Orchestra
+John Paul Young
+John Tropea
+Johnnie Taylor
+Johnny "Guitar" Watson
+Johnny Bristol
+Johnny Mathis
+Johnny Nash
+Johnny Rivers
+Jonelle Allen
+Joy Fleming
+Karen Young (American singer)
+Kat Mandu
+KC & the Sunshine Band
+The Keane Brothers
+Kelly Marie
+Kenny Nolan
+King Sporty
+Kinsman Dazz
+Kiss (band)
+Kleeer
+Kool & the Gang
+L.A. Express
+La Bionda
+Labelle
+Lalo Schifrin
+Lamar Thomas
+Lamont Dozier
+Laura Branigan
+Laura Lee
+Laura Taylor
+Lawrence Hilton-Jacobs
+Leif Garrett
+Lenny Williams
+Leo Sayer
+Leroy Gomez
+Leroy Hutson
+Les McCann
+Linda Clifford
+Linda Evans
+Linda G. Thompson
+Linda Ronstadt
+Lipps Inc.
+Liquid Gold
+Nell Campbell
+Loleatta Holloway
+Lou Rawls
+Louise Mandrell
+Love & Kisses
+Love Unlimited Orchestra
+Love De-Luxe
+Lowrell Simon
+L.T.D. (band)
+Luther Vandross
+Madleen Kane
+Madonna (entertainer)
+Major Harris (singer)
+Major Lance
+Mandrake (band)
+Mandrill (band)
+The Manhattan Transfer
+Marcia Hines
+Marilyn Chambers
+Marlena Shaw
+Martha High
+Martha Reeves
+Martin Stevens
+Marvin Gaye
+Marvin Hamlisch
+Mary Love
+Mary Wilson (singer)
+Maureen McGovern
+Mavis Staples
+Maxine Nightingale
+Maynard Ferguson
+McFadden and Whitehead
+George McCrae
+Meco Monardo
+Melba Moore
+Melissa Manchester
+Merrilee Rush
+The Meters
+MFSB
+Miami Sound Machine
+Michael Jackson
+Michael Zager
+Michel Polnareff
+Mick Jackson (singer)
+Millie Jackson
+Minnie Riperton
+Miquel Brown
+Monsieur Tranquille
+Morris Jefferson
+Mother\'s Finest
+Moulin Rouge
+Musique (Patrick Adams)
+Nancy Wilson (singer)
+Nanette Workman
+Narada Michael Walden
+Natalie Cole
+Naura Hayden
+Neil Diamond
+Neil Sedaka
+New Birth (band)
+Nick Straker Band
+Nicolette Larson
+Noel Pointer
+Nolans (band)
+Norman Connors
+North End (band)
+O.C. Smith
+Odyssey (band)
+The Ohio Players
+The O\'Jays
+Olivia Newton-John
+The Olympic Runners
+One Way (American band)
+The Originals
+Osmonds
+Ottawan
+Pamala Stanley
+Pamela Neal
+Papa John Creach
+Paradise Express
+Parliament (band)
+Passion (band)
+Patrice Rushen
+Patrick Hernandez
+Patrick Juvet
+Patrick Norman (Canadian musician)
+Patsy Gallant
+Patti Boulaye
+Pattie Brooks
+Patti LaBelle
+Paul Anka
+Paul Jabara
+Paul Mauriat
+Paul McCartney & Wings
+Paul Nicholas
+Paul Simon
+Peaches & Herb
+Pearly Gates (singer)
+The People\'s Choice (band)
+Percy Sledge
+The Persuaders (band)
+Peter Allen (musician)
+Peter Brown (singer)
+Peter Jacques band
+Petula Clark
+Phyllis Hyman
+Pink Lady (band)
+The Players Association
+Pointer Sisters
+Polly Brown
+Prince (musician)
+Pussyfoot
+Q (1970s band)
+Queen (band)
+Queen Samantha
+Quincy Jones
+The Raes
+Dayton (band)
+Ralph Carter
+Ralph Graham
+Ralph MacDonald
+Ramsey Lewis
+Randy Crawford
+Ranee Lee
+Raul De Souza
+Ray Charles
+Ray, Goodman & Brown
+Ray Simpson
+Raydio
+Rene Harris
+The Reflections (Harlem band)
+R\xc3\xa9gine Zylberberg
+Rhoda Scott
+Rhythm Heritage
+Rick Dees
+Rick James
+Ringo Starr
+Ripple (band)
+Rita Coolidge
+The Ritchie Family
+Robert Guillaume
+Robert John
+Roberta Flack
+Roberta Kelly
+Robin Beck
+Rod Stewart
+The Rolling Stones
+Romance (band)
+Ronnie Dyson
+Ronnie Jones
+Ronnie Milsap
+Rose Royce
+Rosebud (band)
+Roundtree
+Rouge (band)
+Roxy Music
+Roy Ayers
+Ruby Andrews
+Saint Tropez
+The Salsoul Orchestra
+Samantha Sang
+Santa Esmeralda
+Carlos Santana
+Sarah Brightman
+Sarah Dash
+Scarlet Rivera
+Schoolhouse Rock
+Sea Level
+Seals & Crofts
+Sergio Franchi
+S\xc3\xa9rgio Mendes
+Shalamar
+Sheila (and) B. Devotion
+Shirley & Company
+Shirley Bassey
+Silver Blue
+Silver Convention
+Sister Sledge
+Skyy (band)
+Slave (band)
+Sonny Rollins
+Sophisticated Ladies
+S.O.S. Band
+Soul Children
+Soul Survivors
+Soul Train Gang
+Space (French band)
+Spinal Tap (band)
+The Spinners (soul music)
+Stacy Lattisaw
+Stargard (band)
+Steely Dan
+Stephanie Mills
+Steve Bender
+Tommy Stewart (trumpeter)
+The Street People
+The Stylistics
+Sue and Sunny
+Sunshine (band)
+The Supremes
+Suzanne Stevens
+Sydney Barnes
+The Sylvers
+Sylvester James
+Sylvester Johnson
+Sylvia Robinson
+Larry Fast
+Syreeta
+T-Connection
+Taana Gardner
+Taka Boom
+Tamiko Jones
+Tasha Thomas
+Tata Vega
+Tavares (music group)
+Ted Taylor (musician)
+Teddy Pendergrass
+Teena Marie
+Telex (band)
+The Temprees
+Teri DeSario
+Thelma Houston
+Theresa Brewer
+Three Degrees
+Timmy Thomas
+Tina Charles (singer)
+Tom Jones (singer)
+Tony Middleton (singer)
+Tony Orlando
+Toto (band)
+Touch
+Toulouse
+The Trammps
+Tribe
+Trini Lopez
+Domenic Troiano
+True Image
+Tuxedo Junction
+Two Man Sound
+USA-European Connection
+Van McCoy
+Vaughn Mason & Crew
+Ver\xc3\xb3nica Castro
+Vicki Sue Robinson
+Village People
+Voggue
+Voyage (band)
+Wayne Henderson (musician)
+Walter Jackson (singer)
+Walter Murphy
+Webster Lewis
+"Weird Al" Yankovic
+Wet Willie
+The Whispers
+Wilson Pickett
+Wilton Felder
+Wilton Place Street Band
+Wings (band)
+Witch Queen
+Yambu
+Yvonne Elliman
+Yvonne Fair
+Zdravo (band)
+Zack Ferguson
+Zodiac (band)
  ****** List of doo-wop musicians
 
 The Accents
@@ -6074,7 +7474,7 @@ The Joy Formidable
 Joy Zipper
 Juan Son
 Kerli
-Katie Kim
+Katie Kim (Irish musician)
 Kaki King
 Kind Of Like Spitting
 Kitchens of Distinction
@@ -6407,6 +7807,7 @@ Bunny Lee
 Leftfield
 Don Letts
 Long Beach Dub Allstars
+Lucky Dube
 Mad Professor
 Manu Chao
 Mark Stewart (musician)
@@ -6683,7 +8084,6 @@ Sneaky Sound System
 Martin Solveig
 Spoek Mathambo
 Starkillers
-Stephan Bodzin#Discography
 Surkin
 Swedish House Mafia
 Tiefschwarz
@@ -6706,7 +8106,6 @@ Yuksek
 James Zabiela
 Zedd (musician)
 Zomboy
-Lists of musicians
  ****** List of electro-industrial bands
 
 SITD
@@ -6844,8 +8243,6 @@ Yeht Mae
 yelworC
 Young Gods
 Zombie Girl
-List of industrial music bands
-List of industrial metal bands
  ****** List of electroclash bands and artists
 
 Add N to (X)
@@ -7449,6 +8846,7 @@ Nurse With Wound
 Michael Nyman
 The Observatory (band)
 Obsil
+Olivier Messiaen
 Pauline Oliveros
 Yoko Ono
 John Oswald (composer)
@@ -7491,7 +8889,6 @@ Frank Zappa
 Evan Ziporyn
 John Zorn
 Zoviet France
-List of musicians by genre
  ****** List of fado musicians
 
 Alfredo Marceneiro
@@ -8308,7 +9705,6 @@ Susan McKeown
 Jerry O'Sullivan (musician)
 Solas (group)
 Turgun Alimatov
-Lists of musicians
  ****** List of free improvising musicians and groups
 
 AMM (group)
@@ -8490,7 +9886,6 @@ Brecker Brothers
 Brick (band)
 The Brides of Funkenstein
 The Brothers Johnson
-Chuck Brown#The Soul Searchers: 1965\xe2\x80\x931976
 James Brown
 Tom Browne (trumpeter)
 B. T. Express
@@ -8564,7 +9959,6 @@ Bobbi Humphrey
 Imagination (band)
 Instant Funk
 The Isley Brothers
-The Jackson 5#The Jacksons and CBS/Epic Records
 Michael Jackson
 Rick James
 Jamiroquai
@@ -8689,7 +10083,6 @@ Bernie Worrell
 Charles Wright & the Watts 103rd Street Rhythm Band
 Syreeta Wright
 Zapp (band)
-List of funk rock bands
  ****** List of gangsta rap artists
 
 11/5
@@ -8762,7 +10155,6 @@ WC and the Maad Circle
 X-Raided
 Ya Boy
 Z-Ro
- ****** List of glam punk artists
 
  ****** List of gospel blues musicians
 
@@ -9000,20 +10392,17 @@ Southern Gospel
 Urban contemporary gospel
 Gospel Music Hall of Fame
 Gospel Music Association
-List of Christian bands and artists by genre
 Contemporary Christian music
 Contemporary worship music
- ****** List of grime artists
-
  ****** List of grindcore bands
 
 Aborted
 Agathocles (band)
 Agoraphobic Nosebleed
-Amoebic Dysentery (band)
 Anal Cunt
 Antigama
 Asesino
+As I Lay Dying (band)
 Ass\xc3\xbcck
 Autopsy (band)
 The Berzerker
@@ -9024,7 +10413,6 @@ Brodequin (band)
 Brujeria (band)
 Brutal Truth
 Caninus
-Cannibal Corpse
 Carcass (band)
 Cattle Decapitation
 Cephalic Carnage
@@ -9032,7 +10420,6 @@ Circle of Dead Children
 Cock and Ball Torture (band)
 Columns (band)
 Condemned (Irish band)
-Corrupt Leaders
 The County Medical Examiners
 Dahmer (band)
 Damaged (band)
@@ -9083,7 +10470,6 @@ Phantomsmasher
 Phobia (band)
 Pig Destroyer
 Prostitute Disfigurement
-Proletar
 The Red Chord
 Regurgitate (band)
 Repulsion (band)
@@ -9097,12 +10483,9 @@ Terrorizer
 The Tony Danza Tapdance Extravaganza
 Trap Them
 Unholy Grave
-Vormit
 War from a Harlots Mouth
 Wormrot
 Xysma
-List of crust punk bands
-List of death metal bands
  ****** List of harmonica blues musicians
 
 Billy Boy Arnold
@@ -9298,7 +10681,6 @@ The Exploited
 F-Minus
 The Faith (American band)
 Fear (band)
-Fear Factory
 Finest Hour (band)
 First Blood (band)
 Flipper (band)
@@ -9459,40 +10841,282 @@ Youth of Today
 Zegota (band)
 Zeke (band)
 Zero Boys
-List of Christian hardcore bands
-List of post-hardcore bands
-List of metalcore bands
  ****** List of heavy metal bands
 
-Heavy metal subgenres
-List of alternative metal artists
-List of black metal bands
-Celtic metal#List of bands
-List of Christian metal bands
-Crust punk#List of notable crust punk bands
-List of death metal bands
-List of deathcore bands
-List of doom metal bands
-List of folk metal bands
-List of glam metal bands
-List of gothic metal bands
-List of grindcore bands
-List of groove metal bands
-List of industrial metal bands
-List of mathcore bands
-List of melodic death metal bands
-List of metalcore bands
-List of nu metal bands
-New Wave of British Heavy Metal#List of NWOBHM bands
-List of post-metal bands
-List of power metal bands
-List of progressive metal artists
-Sludge metal#List of sludge metal bands by style
-List of speed metal bands
-Symphonic black metal#List of notable symphonic black metal bands
-List of symphonic metal bands
-List of thrash metal bands
-List of Viking metal bands
+44 Magnum (band)
+220 Volt (band)
+A II Z
+Accept (band)
+Aerosmith
+United States
+Alice Cooper
+United States
+Angel (band)
+\xc3\x81ngeles del Infierno
+The Angels (Australian band)
+Angel Witch
+Anthem (band)
+Anthrax (American band)
+Anvil (band)
+Atomic Rooster
+Atomkraft
+Attila (rock band)
+Axe (band)
+Bang (American band)
+Barnabas (band)
+Bar\xc3\xb3n Rojo
+Battleaxe (band)
+Beow\xc3\xbclf
+Bitch (band)
+Black Death (American band)
+Black \'n Blue
+Black Rose (UK Band)
+Black Sabbath
+Black Widow (band)
+Blitzkrieg (band)
+Bloodrock
+Blue Cheer
+Blue \xc3\x96yster Cult
+Bodine (band)
+Boss (Australian band)
+Bow Wow (band)
+Bronz
+Budgie (band)
+Buffalo (band)
+Bulldozer (band)
+Cactus (band)
+Captain Beyond
+Chateaux (band)
+Cirith Ungol (band)
+Cloven Hoof (band)
+Coven (band)
+Cream (band)
+Crimson Glory
+Crushed Butler
+Dark Angel (band)
+Death SS
+Dedringer
+Deep Machine
+Deep Purple
+Def Leppard
+Demon (band)
+The Deviants (band)
+Diamond Head (band)
+Divlje Jagode
+Dokken
+Dust (band)
+Earthshaker (band)
+E.F. Band
+Electric Sun
+Elf (band)
+Ethel the Frog (band)
+Europe (band)
+Exciter (band)
+Exodus (band)
+Faith No More
+Fallout (heavy metal band)
+Fist (UK band)
+Flotsam and Jetsam (band)
+Flower Travellin\' Band
+Japan
+The Flying Hat Band
+Gamma (band)
+Geordie (band)
+Gillan (band)
+Girl (band)
+Girlschool
+Gordi
+Grand Funk Railroad
+Grave Digger (band)
+Gravestone (band)
+Great White
+Grim Reaper (band)
+The Gun (band)
+Sammy Hagar
+The Handsome Beasts
+Hanoi Rocks
+Hard Stuff
+Hawkwind
+Headpins
+Heaven (Australian band)
+Heavy Load (band)
+Heavy Metal Kids
+Helix (band)
+The Jimi Hendrix Experience
+United Kingdom
+High Tide (band)
+Hollow Ground (band)
+Holocaust (band)
+Holy Moses
+Icon (band)
+Iron Butterfly
+Iron Claw (band)
+Iron Maiden
+United Kingdom
+Jag Panzer
+Jaguar (band)
+Jameson Raid (band)
+Jerusalem (British band)
+Josefus
+JPT Scare Band
+Judas Priest
+Kat (band)
+Kerber
+Kick Axe
+Killer Dwarfs
+King\'s X
+Kiss (band)
+Kix (band)
+Krokus (band)
+Leaf Hound
+Leatherwolf
+Led Zeppelin
+United Kingdom
+Legs Diamond (band)
+Le\xc3\xb1o
+Leviticus (band)
+Lionheart (band)
+London (heavy metal band)
+Lone Star (band)
+Los Suaves
+Loudness (band)
+Lucifer\'s Friend
+Germany
+Mahogany Rush
+Malice (US band)
+Yngwie Malmsteen
+Mama\'s Boys
+Manilla Road
+Manowar
+Marseille (band)
+Max Webster
+May Blitz
+MC5
+Mentors (band)
+Mercyful Fate
+Metal Church
+Metallica
+Misfits (band)
+Montrose (band)
+More (band)
+M\xc3\xb6tley Cr\xc3\xbce
+Mot\xc3\xb6rhead
+Mountain (band)
+Moxy (band)
+Napalm Death
+Nazareth (band)
+Necromandus
+The Next Band
+Night Sun
+Nightwing (band)
+Ted Nugent
+The Obsessed
+Overkill (band)
+Oz (Finnish band)
+Ozzy Osbourne
+Pagan Altar
+Pantera
+Pentagram (band)
+Persian Risk
+Picture (band)
+Pink Fairies
+Praying Mantis (band)
+Pretty Maids
+Primevil (band)
+Quartz (metal band)
+Queensr\xc3\xbfche
+Quiet Riot
+Rainbow (British band)
+Ratt
+Raven (band)
+Riot (band)
+Rock Goddess
+The Rods
+Rok Ma\xc5\xa1ina
+Rose Tattoo
+Uli Jon Roth
+Rough Cutt
+The Runaways
+Running Wild (band)
+Rush (band)
+Saber Tiger
+Sacred Rite (band)
+Saint (band)
+Saint Vitus (band)
+Salem (UK band)
+Paul Samson
+Satan (band)
+Savage (band)
+Savage Grace (metal band)
+Savatage
+Saxon (band)
+Michael Schenker
+Scorpions
+Shark Island (band)
+Sir Lord Baltimore
+Sister (band)
+Skitzo (band)
+Slayer
+Sodom (band)
+Sorcery (band)
+Sortil\xc3\xa8ge (band)
+Sound Barrier
+Spinal Tap (band)
+Spider (British band)
+Stampede (band)
+Starz (band)
+Steeler (German band)
+Steppenwolf (band)
+Stormwitch
+Stray (band)
+Suck (band)
+Suicidal Tendencies
+Sweet Savage
+Tank (band)
+Tesla (band)
+Thin Lizzy
+Thor (band)
+TKO (band)
+Toad (band)
+Tobruk (band)
+Trespass (band)
+Triumph (band)
+Trouble (band)
+Trust (band)
+TSA (band)
+Tucky Buzzard
+Turbo (Polish band)
+Twisted Sister
+Tygers of Pan Tang
+Tytan (band)
+UFO (band)
+Urchin (band)
+Uriah Heep (band)
+V8 (band)
+Vandenberg (band)
+Van Halen
+Vanilla Fudge
+United States
+Vardis
+Venom (band)
+Vicious Rumors
+Virgin Steele
+Vixen (band)
+Vulcain (band)
+Warhorse (British band)
+Warning (French band)
+White Sister (band)
+Whitesnake
+White Spirit (band)
+White Wolf (band)
+Wild Dogs
+Wild Horses (British band)
+Witchfinder General (band)
+Witchfynde
+Wrathchild
+Wrathchild America
+Y&T
+Zoetrope (band)
  ****** List of horror punk bands
 
 45 Grave
@@ -9897,6 +11521,7 @@ Mary Lou Lord
 Lorde
 Los Campesinos!
 The Lotus Eaters (band)
+Emma Louise
 Love Is All
 The Lovely Feathers
 The Love Language
@@ -10197,8 +11822,6 @@ Yuna (singer)
 Zero 7
 Zo\xc3\xa9
 Zooey Deschanel
-List of indie rock artists
-List of alternative rock artists
  ****** List of industrial music bands
 
 16Volt
@@ -10342,8 +11965,6 @@ yelworC
 The Young Gods
 Z\'ev
 Rob Zombie
-List of industrial metal bands
-List of electro-industrial bands
  ****** List of intelligent dance music artists
 
 Mike Paradinas
@@ -11113,16 +12734,35 @@ Zone (band)
 Zoo (band)
 ZYX
 ZZ (band)
-List of musical artists from Japan
-List of Bemani musicians
  ****** List of Japanoise artists
 
-Improvised Music from Japan
-Japanoise
-List of experimental musicians
-List of musicians by genre
-List of noise musicians
-Noise music
+Acid Mothers Temple
+Astro (Japanese band)
+Aube (band)
+Boredoms
+C.C.C.C. (band)
+Crack Fierce
+Diesel Guitar
+Fushitsusha
+The Gerogerigegege
+Government alpha
+Hanatarash
+Hijokaidan
+Himei Koukotsu
+Incapacitants
+Killer Bug
+KK Null
+Mainliner (band)
+Masonna
+Melt-Banana
+Merzbow
+Monde Bruits
+MSBR
+Pain Jerk
+Ruins (Japanese band)
+Solmania
+Space Streakings
+Violent Onsen Geisha
  ****** List of individual K-pop artists
 
 Ailee
@@ -11479,33 +13119,6 @@ Andy Statman
 Yale Strom
 Alicia Svigals
 Dave Tarras
- ****** List of Latin freestyle musicians and songs
-
-TKA
-Nancy Martinez
-Denise Lopez (American singer)
-Stevie B
-Brenda K. Starr
-The Cover Girls
-Expos\xc3\xa9 (group)
-Lil Suzy
-Johnny O.
-Trinere
-Jocelyn Enriquez
-Frankie Cutlass
-Lisa Lisa & Cult Jam
-K7
-Lisa Lisa
-Sweet Sensation
-George Lamond
-Judy Torres
-All City
-Collage
-Rochelle
-Spanish Fly (group)
-Vla Paris & Sarina
-Collage & Denine
-Hanson & Davis
  ****** List of downtempo artists
 
 9 Lazy 9
@@ -11576,6 +13189,7 @@ Rhye
 Saafi Brothers
 Sean Michael Smith
 S\xc3\xa9bastien Tellier
+Shlohmo
 Shpongle
 Shulman (band)
 Sia Furler
@@ -11775,7 +13389,7 @@ Damien Jurado
 The Kelley Deal 6000
 David Kilgour (musician)
 The Kills
-Katie Kim
+Katie Kim (Irish musician)
 Chris Knox
 Kings of Convenience
 Kleenex Girl Wonder
@@ -12086,14 +13700,32 @@ Captain Bogg and Salty
 Great Big Sea
 The Jolly Rogers
 Jon Campbell (songwriter)
-Sea shanty
-Folk music
-List of maritime music festivals
  ****** List of mathcore bands
 
-List of grindcore bands
-List of math rock bands
-List of metalcore bands
+Architects (British band)
+Benea Reach
+Blood Has Been Shed
+Botch (band)
+Car Bomb (band)
+Coalesce (band)
+Converge (band)
+The Chariot (band)
+Daughters (band)
+The Dillinger Escape Plan
+The End (Canadian band)
+Exotic Animal Petting Zoo
+Ion Dissonance
+The National Acrobat
+Protest the Hero
+Psyopus
+Rolo Tomassi
+See You Next Tuesday (band)
+Sincebyman
+Trailer Park Sex
+Training for Utopia
+The Sawtooth Grin
+The Tony Danza Tapdance Extravaganza
+War from a Harlots Mouth
  ****** List of merengue musicians
 
 Aguakate
@@ -12132,11 +13764,171 @@ Fernando Villalona
 Los Ca\xc3\xb1oneros
  ****** List of metalcore bands
 
-List of mathcore bands
-List of deathcore bands
-List of electronicore bands
-List of heavy metal bands
-List of hardcore punk bands
+The Acacia Strain
+Adept (band)
+After the Burial
+The Agonist
+Alesana
+All Out War (band)
+All That Remains (band)
+American Me (band)
+American Standards (band)
+The Amity Affliction
+Architects (British band)
+As I Lay Dying (band)
+Asking Alexandria
+Atreyu (band)
+Attack Attack!
+Attila (metalcore band)
+August Burns Red
+Avenged Sevenfold
+AxeWound
+Beartooth (band)
+Beneath the Sky
+Betraying the Martyrs
+Between the Buried and Me
+Black Veil Brides
+The Bled
+Bleed from Within
+Bleeding Through
+Blessthefall
+Blind Witness
+Botch (band)
+Bring Me the Horizon
+The Browning
+Bullet for My Valentine
+Burden of a Day
+Buried in Verona
+Bury Tomorrow
+Bury Your Dead
+Caliban (band)
+Cancer Bats
+Capture the Crown
+The Chariot (band)
+Chimaira
+Chunk! No, Captain Chunk!
+Close Your Eyes (band)
+Coalesce (band)
+Coldrain
+The Color Morale
+Confession (band)
+Confide
+Converge (band)
+Counterparts (band)
+The Crimson Armada
+Crossfaith
+Crown the Empire
+Darkest Hour (band)
+A Day to Remember
+Dead by April
+Demon Hunter
+Destroy the Runner
+Devil Sold His Soul
+The Devil Wears Prada (band)
+The Dillinger Escape Plan
+Drop Dead, Gorgeous
+Earth Crisis
+Eighteen Visions
+Emmure
+Escape the Fate
+Eskimo Callboy
+Evergreen Terrace
+Every Time I Die
+Eyes Set to Kill
+Falling in Reverse
+Famous Last Words (band)
+Fit for a King (band)
+For All Those Sleeping
+For the Fallen Dreams
+For Today
+The Ghost Inside (band)
+Gideon (band)
+Glamour of the Kill
+Glass Cloud
+Greeley Estates
+Haste the Day
+Hatebreed
+Heart in Hand (band)
+Heaven Shall Burn
+Hogan\'s Heroes (band)
+Hoods (band)
+Hopes Die Last
+Horse the Band
+The Human Abstract (band)
+Hundredth (band)
+I Killed the Prom Queen
+I See Stars
+I, the Breather
+Ice Nine Kills
+In Fear and Faith
+In Hearts Wake
+In This Moment
+Integrity (band)
+Issues (band)
+It Prevails
+Iwrestledabearonce
+Killswitch Engage
+La Dispute (band)
+Lamb of God (band)
+Lay It on the Line (band)
+Like Moths to Flames
+Living Sacrifice
+Make Me Famous
+Memphis May Fire
+Merauder
+Misery Signals
+Miss May I
+More than a Thousand
+Motionless in White
+Norma Jean (band)
+Northlane
+Oceans Ate Alaska
+Of Mice & Men (band)
+Oh, Sleeper
+Overcast (band)
+Parkway Drive
+The Plot in You
+Poison the Well (band)
+Protest the Hero
+Ringworm (band)
+Rise to Remain
+Rorschach (band)
+Secrets (post-hardcore band)
+Shadows Fall
+Shai Hulud
+Sirens and Sailors
+Sky Eats Airplane
+A Skylit Drive
+Slapshock
+Sonic Syndicate
+The Sorrow
+Starkweather (band)
+A Static Lullaby
+Stick to Your Guns
+Sworn In (band)
+Terror (band)
+Texas in July
+Textures (band)
+Threat Signal
+Throwdown (band)
+Times of Grace
+Trivium (band)
+Underoath
+Unearth
+Upon a Burning Body
+Vision of Disorder
+Volumes (band)
+War from a Harlots Mouth
+War of Ages
+We Butter the Bread with Butter
+We Came as Romans
+While She Sleeps
+Within the Ruins
+Woe, Is Me
+The Word Alive
+Wovenwar
+Your Demise
+Zao (American band)
  ****** List of new-age music artists
 
 Philip Aaberg
@@ -12588,7 +14380,6 @@ Bauhaus (band)
 Toni Basil
 The Beat
 The Belle Stars
-Belouis Some
 The Beloved (band)
 Berlin (band)
 Bezobrazno Zeleno
@@ -12803,7 +14594,6 @@ Kissing the Pink
 KSU (band)
 Kombi (band)
 Klaus Mitffoch
-Stewart Copeland#Klark Kent
 The Knack
 The Korgis
 Robin Lane
@@ -13070,8 +14860,6 @@ Zones (band)
 \xc3\x9eeyr
 \xc4\x8cista Proza
 \xc5\xa0arlo Akrobata
-List of post-punk bands
-List of synthpop artists
  ****** List of noise musicians
 
 Abruptum
@@ -13389,6 +15177,7 @@ Peter Rehberg
 The Residents
 Boyd Rice
 Robin Rimbaud
+Dieter Roth
 Keith Rowe
 Ruins (Japanese band)
 Antonio Russolo
@@ -13480,7 +15269,6 @@ Yuri Landman
 John Zorn
 Zoviet France
 Zweizz
-List of Japanoise artists
  ****** List of nu metal bands
 
 311 (band)
@@ -13612,7 +15400,6 @@ Vanilla Ice
 Videodrone
 Brian "Head" Welch
 Wicked Wisdom
-List of heavy metal bands#Subgenre and cross-genre lists
  ****** List of Oi! bands
 
 The 4-Skins
@@ -13714,6 +15501,7 @@ John Bundrick
 Terry Burrus
 Kate Bush
 Jonathan Cain
+John Cale
 Vanessa Carlton
 Richard Carpenter (musician)
 Jo Ann Castle
@@ -14215,6 +16003,8 @@ White Shoes & The Couples Company
 Yovie & Nuno
 Marvells Band
 Frezia Band
+Zigaz Band
+The Virgin
 SM*SH
 Coboy Junior
 Super7 (band)
@@ -14224,105 +16014,6 @@ Princess
 JKT48
 S.O.S (Indonesian girl group)
 Bexxa
-List of Indonesians
-List of Indonesian musicians and musical groups
-Lists of musicians
- ****** List of post-disco artists and songs
-
-Gayle Adams
-Aurra
-B. B. & Q. Band
-Black Devil Disco Club
-David Bowie
-Jocelyn Brown
-Sharon Brown (singer)
-Rafael Cameron
-Central Line (band)
-Change (band)
-Ch\xc3\xa9ri (band)
-Collage (band)
-D Train (music group)
-Dayton (band)
-The Deele
-ESG (band)
-Freeez
-Taana Gardner
-Gloria Gaynor
-Gwen Guthrie
-Holy Ghost!
-Imagination (band)
-Inner Life
-Michael Jackson
-The Jammers
-Grace Jones
-Luke Vibert#2000 and onwards
-Kid Creole and the Coconuts
-Evelyn "Champagne" King
-Kleeer
-Klein + M.B.O.
-Kool & the Gang
-Lakeside (band)
-Liquid Liquid
-Leroy Burgess
-Madonna (entertainer)
-Metro Area
-George Michael
-Midnight Star
-Melba Moore
-Mtume
-North End (band)
-Passion (band)
-Peech Boys
-Polyrock
-Fonda Rae
-Raw Silk
-Sharon Redd
-Patrice Rushen
-Secret Weapon (group)
-Shades of Love (band)
-Shalamar
-Shannon (singer)
-Sinnamon
-Skipworth & Turner
-Skyy (band)
-Slave (band)
-The S.O.S. Band
-Starpoint
-Edmund Sylvers
-The System (band)
-Unique (band)
-The Universal Robot Band
-Unlimited Touch
-Vicky D
-Was (Not Was)
-Jody Watley
-Wham!
-The Whispers
-Yarbrough and Peoples
-Zapp (band)
-Patrick Adams (musician)
-Arthur Baker (musician)
-John Benitez
-Leroy Burgess
-Patrick Cowley
-Eumir Deodato
-Quincy Jones
-Kashif (artist)
-Fran\xc3\xa7ois Kevorkian
-Frankie Knuckles
-Larry Levan
-Nick Martinelli
-Eric Matthew
-Derrick May (musician)
-Darryl Payne
-Shep Pettibone
-Kelley Polar
-Arthur Russell (musician)
-Tee Scott
-List of dance-pop artists
-List of dance-rock artists
-List of funk musicians
-List of house music artists
  ****** List of post-dubstep musicians
 
 Chase & Status
@@ -14349,13 +16040,183 @@ XXYYXX
 Zomby
  ****** List of post-grunge bands
 
-Grunge
-Alternative rock
-List of alternative rock artists
-Alternative metal
-List of alternative metal artists
-Nu metal
-List of nu metal bands
+Escatawpa, Mississippi
+Knoxville, Tennessee
+Mandeville, Louisiana
+Phoenix, Arizona
+Ventura, California
+Salt Lake City, Utah
+Las Vegas, Nevada
+Fredericton, New Brunswick
+Fredericton, New Brunswick
+Moreno Valley, California
+Orlando, Florida
+Pittsfield, New Hampshire
+Oklahoma City, Oklahoma
+Los Angeles, California
+Vancouver
+Miami, Florida
+Glendale, California
+Kansas City, Missouri
+Napanee, Canada
+Little Rock, Arkansas
+Baton Rouge, Louisiana
+Boston, Massachusetts
+Edmonton, Kentucky
+Orillia, Ontario
+Philadelphia, Pennsylvania
+Wilkes-Barre, Pennsylvania
+Memphis, Tennessee
+Los Angeles, California
+Orange County, California
+Jacksonville, Florida
+London, England
+Los Angeles, California
+Seattle, Washington
+St. Louis, Missouri
+Grayslake, Illinois
+Seattle, Washington
+West Chester, Pennsylvania
+Jacksonville, Florida
+Stockbridge, Georgia
+San Francisco, California
+Enterprise, Alabama
+Tallahassee, Florida
+Columbia, South Carolina
+Florida
+McLeansville, North Carolina
+Houston, Texas
+Nashville, Tennessee
+Charlestown, Indiana
+Morehead City, North Carolina
+Charleston, South Carolina
+Vancouver, British Columbia
+Seattle, Washington
+Santa Barbara, California
+Atlanta, Georgia
+New Jersey
+Dallas, Texas
+Memphis, Tennessee
+Los Angeles, California
+Dallas, Texas
+Memphis, Tennessee
+Omaha, Nebraska
+Toronto, Ontario
+Portland, Oregon
+Los Angeles, California
+Philadelphia, Pennsylvania
+Newport, Wales
+Cleveland, Ohio
+Burlington, Ontario
+Orlando, Florida
+Belton, Texas
+Los Angeles, California
+Seattle, Washington
+Vancouver, British Columbia
+Jackson, Tennessee
+Somis, California
+London, England
+Lawrence, Massachusetts
+York, Pennsylvania
+Seattle, Washington
+East Bay, California
+Los Angeles, California
+Phoenix, Arizona
+Lismore, New South Wales
+Norwood, Ontario
+Red Lion, Pennsylvania
+Toronto, Ontario
+Oklahoma City, Oklahoma
+Los Angeles, California
+Agoura Hills, California
+Virginia
+Atlanta, Georgia
+Essex, England
+Tacoma, Washington
+Vancouver, British Columbia
+Annapolis, Maryland
+Toronto, Ontario
+Portland, Oregon
+Brooklyn, New York
+Los Angeles, California
+Auckland
+Vancouver
+York, Pennsylvania
+Zion, Illinois
+Los Angeles, California
+New York City, New York
+Orlando, Florida
+Spokane, Washington
+Los Angeles, California
+St. Louis, Missouri
+Vancouver, British Columbia
+Norwood, Ontario
+Hanna, Alberta
+Belgrade
+Oklahoma City, Oklahoma
+Sacramento, California
+Los Angeles, California
+Toronto, Ontario
+Lawrence, Kansas
+Lawrence, Kansas
+Los Angeles, California
+Vancouver, British Columbia
+Grand Rapids, Michigan
+New York City, New York
+Kansas City, Missouri
+Nashville, Tennessee
+Birmingham, Alabama
+North Andover, Massachusetts
+Carbondale, Illinois
+Tempe, Arizona
+Cork (city)
+Tulsa, Oklahoma
+Pretoria
+Corinth, Mississippi
+Orlando, Florida
+Pretoria
+Minneapolis, Minnesota
+Williamsburg, Virginia
+Jefferson City, Missouri
+Jacksonville, Florida
+Sydney, NSW
+Newcastle, New South Wales
+Bradenton, Florida
+Doylestown, Pennsylvania
+Santa Clarita, California
+Blountstown, Florida
+Chicago, Illinois
+Beaufort, South Carolina
+Detroit, Michigan
+Springfield, Massachusetts
+Dallas, Texas
+Ocala, Florida
+Des Moines, Iowa
+San Diego, California
+Stephenville, Texas
+Los Angeles, California
+San Diego, California
+Louisville, Kentucky
+Delta, British Columbia
+San Francisco, California
+Toronto, Ontario
+Norwood, Ontario
+Fort Worth, Texas
+Los Angeles, California
+Los Gatos, California
+Orlando, Florida
+Prattville, Alabama
+Seattle, Washington
+Vancouver, British Columbia
+Georgetown, Washington, DC
+Chicago, Illinois
+East Lansing, Michigan
+Sydney, New South Wales
+Brisbane, Queensland
+Birmingham, Alabama
+Orlando, Florida
+Winnipeg, Manitoba
+Birmingham, Alabama
  ****** List of power pop artists and songs
 
 20/20 (band)
@@ -14469,6 +16330,7 @@ OK Go
 Old 97\'s
 One Direction
 The Only Ones
+The Paley Brothers
 Peachcake
 Pezband
 Phantom Planet
@@ -14496,7 +16358,6 @@ Sex Clark Five
 Phil Seymour
 The Shins
 Shoes (American band)
-Billy Squier#Early career
 Silver Sun
 Sloan (band)
 The Sneetches (band)
@@ -14536,6 +16397,189 @@ The Wondermints
 XTC
 Yachts (band)
 Zumpano
+20/20 (band)
+Admiral Twin
+Ash (band)
+Badfinger
+Stiv Bators
+The Beat (American band)
+Big Star
+Blue Ash (band)
+The Breetles
+Busted (band)
+Mike Viola
+The Cars
+Cavedogs
+Cheap Girls
+Cheap Trick
+Cotton Mather (band)
+Mikal Cronin
+The dB\'s
+Dirty Looks (New York band)
+Donnie Iris
+Doughboys (Canadian band)
+Dwight Twilley
+Enuff Z\'nuff
+The Exploding Hearts
+The Feeling
+Flamin\' Groovies
+Fountains of Wayne
+Game Theory (band)
+The Go-Go\'s
+The Greg Kihn Band
+Head Automatica
+The Jags
+Jellyfish (band)
+Jimmy Eat World
+Jonas Brothers
+Kaiser Chiefs
+Tommy Keene
+Greg Kihn
+The Knack
+Ben Kweller
+The Loud Family
+Chris Mars
+Material Issue
+The Mayflies USA
+Motion City Soundtrack
+Myracle Brah
+The New Pornographers
+The Nice Boys
+OK Go
+Old 97\'s
+One Direction
+Phantom Planet
+The Posies
+Raspberries (band)
+Redd Kross
+Emitt Rhodes
+The Romantics
+Rooney (band)
+Adam Schmitt
+The Semantics
+Phil Seymour
+The Spongetones
+Rick Springfield
+Sloan (band)
+The Someloves
+Starz (band)
+Sugar (American band)
+Matthew Sweet
+Teenage Fanclub
+Tsar (band)
+Tommy Tutone
+Dwight Twilley
+Velvet Crush
+Chris Von Sneidern
+Weezer
+The Wellingtons
+20/20 (band)
+Ash (band)
+Jon Auer
+Badfinger
+The Bangles
+Stiv Bators
+Bay City Rollers
+The Beat (American band)
+The Beatles
+The Innocents (Australian band)
+Big Star
+Blink-182
+Blondie (band)
+Blue Ash (band)
+David Bowie
+The Boys (UK band)
+The Breetles
+V V Brown
+The Cars
+Cheap Girls
+Cheap Trick
+Paul Collins (musician)
+Marshall Crenshaw
+The Dandy Warhols
+The dB\'s
+Doughboys (Canadian band)
+Dwight Twilley
+Dave Edmunds
+Eddie and the Hot Rods
+Enuff Z\'nuff
+The Exploding Hearts
+The Feeling
+Flamin\' Groovies
+Fountains of Wayne
+Fuzzbubble
+Game Theory (band)
+The Go-Go\'s
+The Greenberry Woods
+The Greg Kihn Band
+Head Automatica
+Hoodoo Gurus
+Hudson Brothers
+The Jam
+The Jayhawks
+Jellyfish (band)
+Jimmy Eat World
+Jonas Brothers
+Kaiser Chiefs
+Tommy Keene
+The Knack
+Avril Lavigne
+Let\'s Active
+The Loud Family
+Demi Lovato
+Nick Lowe
+Material Issue
+Max\xc3\xafmo Park
+The Motors
+Bob Mould
+Myracle Brah
+Nazz
+The Nerves
+The New Pornographers
+New Radicals
+The Nice Boys
+Off Broadway (band)
+OK Go
+Old 97\'s
+One Direction
+The Only Ones
+Katy Perry
+Pezband
+Phantom Planet
+Pink (singer)
+The Plimsouls
+The Posies
+Puffy AmiYumi
+Raspberries (band)
+The Records
+Rockpile
+The Romantics
+Rooney (band)
+The Rubinoos
+Todd Rundgren
+Adam Schmitt
+Phil Seymour
+Shoes (American band)
+The Speedies
+The Spongetones
+Rick Springfield
+Bruce Springsteen
+Squeeze (band)
+Billy Squier
+The Starjets
+Starz (band)
+Bram Tchaikovsky
+Tom Petty and the Heartbreakers
+Tommy Tutone
+Dwight Twilley
+The Vapors
+Velvet Crush
+Weezer
+The Wellingtons
+The Who
+The Wondermints
+XTC
+Robin Zander
  ****** List of progressive house artists
 
 3LAU
@@ -14551,6 +16595,7 @@ Avicii
 Axwell
 Robert Babicz
 Basto (musician)
+Bellatrax
 Benny Benassi
 Randy Bettis
 Bingo Players
@@ -14679,8 +16724,6 @@ Michael Woods (producer)
 James Zabiela
 Zedd (musician)
 Mat Zo
-List of electronic music genres
-List of house music artists
  ****** List of punk bands from the United Kingdom
 
 4ft Fingers
@@ -15085,7 +17128,6 @@ The Raincoats
 Rancid Hell Spawn
 Cuddly Toys
 Rat Scabies
-Brisbane punk rock#The Second Phase
 Talk Talk
 Bullshit Detector
 Bullshit Detector
@@ -15317,10 +17359,922 @@ Fred Van Eps
 Fats Waller
 Del Wood
 Dick Zimmerman
- ****** List of rai musicians
+ ****** List of ra%EF musicians
 
- ****** List of R&B musicians
+Abdel Ali Slimani
+Ahmed Fakroun
+Boussouar El Maghnaoui
+Boutaiba Sghir
+Bouteldja Belkacem
+Chaba Fadela
+Cheb Bilal
+Cheb Hasni
+Cheb Kader
+Cheb Mami
+Cheb Nasro
+Cheb Sahraoui
+Cheb Tarik
+Cheba Zahouania
+Cheikha Rabia
+Cheikha Rimitti
+Fadela & Sahrawi
+Faudel
+Gana El Maghnaoui
+Hamid Bouchnak
+Khaled (musician)
+Messaoud Bellemou
+Mimoun El Oujdi
+Najim
+Rachid Baba Ahmed
+Rachid Taha
+Ra\xc3\xafna Ra\xc3\xaf
+Reda Taliani
+ ****** List of R%26B musicians
 
+1 of the Girls (group)
+112 (R&B group)
+2nd Nature (group)
+3rd Storee (group)
+3LW
+3T
+4 P.M. (group)
+702 (group)
+7669 (group)
+98 Degrees
+Abel Tesfaye
+Aaliyah
+Adele
+Paula Abdul
+Gregory Abbott
+Adeaze
+Agnez Mo
+Tiffany Affair
+Christina Aguilera
+Ailee
+Akon
+Al B. Sure!
+Alexandra Burke
+All-4-One
+Alexis Jordan
+Tatyana Ali
+Algebra (singer)
+Allure (group)
+Aloe Blacc
+All Saints (group)
+Amerie
+Melanie Amaro
+Marsha Ambrosius
+Namie Amuro
+Anastacia
+Angie Stone
+Anquette
+Aretha Henry
+Steve Arrington
+Lyrica Anderson
+Sunshine Anderson
+Public Announcement (group)
+Ashanti (entertainer)
+Ashford & Simpson
+Asia Cruise
+Auburn (singer)
+Avant
+Az Yet
+Aziatix
+After 7
+Alicia Keys
+Another Bad Creation
+Ariana Grande
+Athena Cage
+ATL (band)
+Aubrey O\'Day
+Auburn (singer)
+August Alsina
+Johnt\xc3\xa1 Austin
+Aundrea Fimbres
+Bohemia (musician)
+B. Smyth
+B2K
+B5 (group)
+Victoria Beckham
+Eric Benet
+George Benson
+Babyface (musician)
+Backstreet Boys
+Erykah Badu
+Anita Baker
+Stacy Barthe
+Adrienne Bailon
+Natasha Bedingfield
+Regina Belle
+Chris Bender (singer)
+Paris Bennett
+Bell Biv DeVoe
+Frankie Beverly
+Before Dark
+Beyonc\xc3\xa9 Knowles
+Brick and Lace
+Bilal (American singer)
+Bill Withers
+Jully Black
+Blackstreet
+Sounds of Blackness
+Black Buddafly
+Blaque
+Mary J. Blige
+Corbin Bleu
+Boyz II Men
+BoA
+Angela Bofill
+Chuckii Booker
+Wayne Brady
+Brandy Norwood
+Tamar Braxton
+Toni Braxton
+The Braxtons
+Amanda Brown (singer)
+Bobby Brown
+Chris Brown (American entertainer)
+Divine Brown
+James Brown
+Koffee Brown
+Melanie Brown
+Sleepy Brown
+Yolanda "La La" Brown
+Brownstone (group)
+Eric Burdon
+Brick (band)
+Bruno Mars
+Brutha
+Peabo Bryson
+Kandi Burruss
+Keni Burke
+Cameo (band)
+Tevin Campbell
+Blu Cantrell
+Mariah Carey
+Case (singer)
+Cassie (singer)
+Torrey Carter
+Changing Faces (group)
+One Chance (group)
+Keshia Chante
+Charice
+Cher Lloyd
+Cherish (group)
+Cheri Dennis
+Cherrelle
+Cheryl Lynn
+Chic (band)
+Christion
+Jay Chou
+Ciara
+Cinta Laura
+Willie Clayton
+Cleopatra (band)
+Coco Jones
+Cody Chesnutt
+Coko
+Colonel Abrams
+Coming of Age (group)
+Club Nouveau
+China Anne McClain
+Alex Clare
+Cheryl Cole
+Keyshia Cole
+Natalie Cole
+Tyler Collins
+Trisha Covington
+Jimmy Cozier
+Deborah Cox
+Con Funk Shun
+Corinne Bailey Rae
+D\'Angelo
+Damage (British band)
+Damian Dame
+Ray Dalton
+Dallas Blocker
+Danity Kane
+Danny Fernandes
+Anthony David (singer)
+Craig David
+Davina
+Day26
+Ester Dean
+DeBarge
+Paula DeAnda
+Chico DeBarge
+El DeBarge
+James DeBarge
+Kristinia DeBarge
+Kiley Dean
+Deepside
+Kat DeLuna
+Esmee Denters
+Jason Derulo
+Shawn Desman
+Raheem DeVaughn
+Dewi Sandra
+Divine (group)
+Divine Brown
+Dondria
+Conya Doss
+Will Downing
+Destiny\'s Child
+Dream (American group)
+The-Dream
+DRS (group)
+Vikter Duplaix
+Dwele
+Drake (rapper)
+Hilary Duff
+Eamon (singer)
+Electrik Red
+Missy Elliott
+Terry Ellis
+Elusion
+Loose Ends (band)
+Entouch
+En Vogue
+The Essex
+Estelle (musician)
+Elise Estrada
+Deon Estus
+Eternal (band)
+Etta James
+Emeli Sand\xc3\xa9
+Adriana Evans
+Faith Evans
+Tiffany Evans
+Evelyn King (singer)
+Ex Girlfriend (band)
+EXO
+Exile (Japanese band)
+II D Extreme
+Fantasia Barrino
+Dionne Farris
+Shamari Fears
+Fergie (singer)
+Amp Fiddler
+Melanie Fiona
+Hi-Five
+FLAME
+Nu Flavor
+Nikki Flores
+Floetry
+Force MDs
+Khalil Fong
+Jamie Foxx
+Lisa Fischer
+Frankie J
+Roberta Flack
+Livvi Franc
+Aretha Franklin
+Farrah Franklin
+Sophia Fresh
+Full Force
+Fun-Da-Mental
+Nelly Furtado
+Frank Ocean
+Goapele
+G.NA
+Sean Garrett
+Marvin Gaye
+Nona Gaye
+G.E.M. (singer)
+Gerrell Gaddis
+The Product G&B
+Perfect Gentlemen
+Special Generation (band)
+Tyrese Gibson
+Johnny Gill
+Ginuwine
+Matt Giraud
+BlackGirl
+Girlicious
+Paradiso Girls
+Glenn Lewis
+Candice Glover
+Git Fresh
+Edyta G\xc3\xb3rniak
+Ariana Grande
+Macy Gray
+Tamyra Gray
+Cee Lo Green
+Vivian Green
+Guy (band)
+Governor (singer)
+Noel Gourdin
+Gwen Guthrie
+H-Town (band)
+Aaron Hall (singer)
+Damion Hall
+Hadise
+Ayumi Hamasaki
+Anthony Hamilton (musician)
+Jonn Hart
+Lalah Hathaway
+Screamin\' Jay Hawkins
+Heather Headley
+Heatwave (band)
+LovHer
+City High
+Dru Hill
+Lauryn Hill
+Keri Hilson
+Dave Hollister
+J. Holiday
+Ron Holloway
+A Taste of Honey (band)
+Honeyz
+Houston (rapper)
+Marques Houston
+Whitney Houston
+Adina Howard
+Miki Howard
+Vanessa Hudgens
+Jennifer Hudson
+R. L. Huggar
+Rochelle Humes
+Van Hunt
+Phyllis Hyman
+Stevie Hoang
+Imran Khan (singer)
+Ideal (band)
+II D Extreme
+IMx
+James Ingram
+Ironik
+The Isley Brothers
+Ronald Isley
+Imajin
+India.Arie
+Innosense
+Issues (band)
+Isyss
+Iyaz
+Intro (R&B group)
+Jhen\xc3\xa9 Aiko
+Jada (band)
+Jaden Smith
+Jamelia
+Jamiroquai
+Jana Mashonee
+Japollonia
+Jaguar Wright
+Jay Chou
+Jay Park
+Jay Sean
+JRDN
+J. Holiday
+Daron Jones
+Freddie Jackson
+Janet Jackson
+Jermaine Jackson
+Tito Jackson
+Jackie Jackson
+Marlon Jackson
+Randy Jackson (The Jacksons)
+Michael Jackson
+Trevor Jackson (actor)
+Jade (group)
+Samantha Jade
+Jagged Edge (group)
+Jaheim
+Lisa Lisa and Cult Jam
+Leela James
+Luke James
+Rick James
+Dear Jayne
+Lyfe Jennings
+Jeremih
+Jesse McCartney
+Jesse Powell
+Jessie J
+Jewell (singer)
+JLS
+Jodeci
+Joe (singer)
+Kim Johnson
+Syl Johnson
+Syleena Johnson
+Joi (singer)
+JoJo (singer)
+Jomanda (group)
+K\'Jon
+Jon B.
+Jonell
+Joe Jonas
+Donell Jones
+Glenn Jones
+Grace Jones
+Oran "Juice" Jones
+Shae Jones
+Miss Jones
+Montell Jordan
+Joya (singer)
+Victoria Justice
+Jamelia
+Arika Kane
+Danity Kane
+Kai (band)
+Miliyah Kato
+Crystal Kay
+Kalenna Harper
+Katerina Graham
+Kelis
+Kelly Rowland
+Tynisha Keli
+Bridget Kelly
+Claude Kelly
+R. Kelly
+Johnny Kemp
+Kem (singer)
+Lo-Key?
+Alicia Keys
+Chaka Khan
+K.P. & Envyi
+Khalil (singer)
+Gladys Knight & the Pips
+Donnie Klang
+Klymaxx
+K\'Jon
+Kindred the Family Soul
+Koda Kumi
+Keke Palmer
+K-Ci & JoJo
+Kut Klose
+Keri Hilson
+Kevon Edmonds
+Keith Washington
+Kyla
+Leela James
+Leah LaBelle
+Labelle
+Patti LaBelle
+Men at Large
+Amel Larrieux
+Jacob Latimore
+Kenny Lattimore
+Stacy Lattisaw
+Latif (singer/songwriter)
+Ledisi
+John Legend
+Lena Park
+Ryan Leslie
+LeVert
+Gerald Levert
+Sean Levert
+Glenn Lewis
+Leona Lewis
+Link (singer)
+Lloyd (singer)
+L.T.D. (band)
+Lou Rawls
+LaToya London
+Trey Lorenz
+Jennifer Lopez
+Rico Love
+Love and Sas
+LSG
+LeToya Luckett
+Lucy Pearl
+Cheryl Lynn
+Lyric (group)
+Lemar
+Demi Lovato
+Emi Maria
+Teairra Mari
+Madcon
+Maejor Ali
+Marc Dorsey
+Marc Nelson
+Marcus Canty
+Blue Magic (band)
+Mark Morrison
+Mario (entertainer)
+Mary Jane Girls
+Mary J. Blige
+Mary Mary
+Mashonda
+Mateo (singer)
+Jessica Mauboy
+Maysa Leak
+May J.
+Medina (singer)
+Mica Paris
+Mike Posner
+Mila J
+Misia
+Willie Max
+Maxwell (musician)
+Maze (band)
+Edna McGriff
+Kevin McHale (actor)
+Brian McKnight
+Mindless Behavior
+Zena McNally
+K. Michelle
+Michel\'le
+Chrisette Michele
+Miguel (singer)
+Christina Milian
+Cymphonique Miller
+Milira (singer)
+Stephanie Mills
+Daichi Miura
+Little Mix
+Mint Condition (band)
+Missez
+Mishon
+Mista (band)
+Mis-Teeq
+Mtume
+Mokenstef
+Momoiro Clover Z
+Janelle Mon\xc3\xa1e
+Mona Lisa (singer)
+Monica (entertainer)
+Monifah
+Morris Day
+Lil\' Mo
+Chant\xc3\xa9 Moore
+Meli\'sa Morgan
+PJ Morton
+Rene Moore
+Tina Moore
+Teedra Moses
+Tisha Campbell-Martin
+Samantha Mumba
+Musiq Soulchild
+M\xc3\xbda
+Mika Nakashima
+Nasri (singer/songwriter)
+Natalie (singer)
+Natasha (singer)
+Nate Dogg
+Naturi Naughton
+Nephu
+Ne-Yo
+New Kids on the Block
+New Edition
+Next (band)
+Nicole Wray
+Kana Nishino
+Asia Nitollano
+Nivea (singer)
+Julia Nixon
+Nelly
+Les Nubians
+Nuttin\' Nyce
+Nu Shooz
+\'N Sync
+N-Toon
+Nyusha
+George Nozuka
+Justin Nozuka
+Obiwon
+O\'Bryan
+Billy Ocean
+Frank Ocean
+Ohio Players
+Rita Ora
+Wild Orchid (band)
+Jeannie Ortega
+Claudette Ortiz
+Olivia (singer)
+OMG Girlz
+Omarion
+Omawumi
+O\'Ryan
+Alexander O\'Neal
+Jeffrey Osborne
+Ol\' Skool
+Out of Eden
+Outlandish
+T-Pain
+PartyNextDoor
+Karina Pasian
+Sean Paul
+Paula Campbell
+Paulini
+Perri "Pebbles" Reid
+Teddy Pendergrass
+CeCe Peniston
+Amanda Perez
+P!nk
+Phyllis Nelson
+PM Dawn
+Pixie Lott
+Pleasure P
+So Plush
+Pointer Sisters
+Portrait (group)
+Rahsaan Patterson
+Jesse Powell
+Pretty Ricky
+Kelly Price
+Lloyd Price
+Prince (musician)
+Profyle
+Joe Public (band)
+Pure Soul
+Quincy Jones
+R. Kelly
+Ray J
+Rayven Justice
+R. L. Huggar
+Corinne Bailey Rae
+RaVaughn
+Raven-Symon\xc3\xa9
+For Real
+Soul for Real
+Ready for the World
+Rene and Angela
+Rene Moore
+Jeff Redd
+Otis Redding
+Natina Reed
+RichGirl
+Ricco Barrino
+Rico Love
+Calvin Richardson
+Dawn Richard (singer)
+Nikki & Rich
+Lionel Richie
+Riff (American band)
+Rihanna
+Minnie Riperton
+Belinda Rio
+Eric Roberson
+LaTavia Roberson
+Robin S
+Smokey Robinson
+Sylvia Robinson
+Vicki Sue Robinson
+Megan Rochell
+Rockwell (musician)
+Carmen Rodgers
+Rome (musician)
+Diana Ross
+Rossa (singer)
+Rosie Gaines
+Lil Rounds
+Kelly Rowland
+Patrice Rushen
+Will Smith
+Raphael Saadiq
+Sabi (singer)
+Sade (band)
+Sa-Deuce
+Sam & Dave
+Sammie
+Samuelle
+Uncle Sam (singer)
+Ilya Salmanzadeh
+Sam Salter
+Jessica Sanchez
+Emeli Sand\xc3\xa9
+Frankie Sandford
+Chantay Savage
+Harvey Scales
+Nicole Scherzinger
+Melissa Schuman
+Jill Scott
+Kimberly Scott (singer)
+Tony Scott
+Seal (musician)
+Reggie Sears
+Guy Sebastian
+Selena
+Sevyn Streeter
+Shai (band)
+Shakira
+Shalamar
+Shanice
+Shannon (singer)
+Shannon Bex
+Shareefa
+Sharissa
+Sheila E.
+Shila (singer)
+Shirley & Lee
+Shontelle
+Shota Shimizu
+Smooth (singer)
+Drew Sidora
+Silk (group)
+Jessica Simpson
+Nina Sky
+Lorenzo Smith
+Sy Smith
+Willow Smith
+Sisq\xc3\xb3
+McClain Sisters
+Sister Sledge
+Sister Wynona Carr
+Sly & the Family Stone
+Solange Knowles
+Solo (group)
+Slim (singer)
+Somethin\' for the People
+Sons of Funk
+Musiq Soulchild
+Soul II Soul
+Skyy (band)
+Trey Songz
+The SOS Band
+Sounds of Blackness
+Bobby Sowell
+Jordin Sparks
+Sparkle (singer)
+Spice Girls
+The Spaniels
+Sam Sparro
+Tracie Spencer
+Dusty Springfield
+Lisa Stansfield
+The Staple Singers
+Atlantic Starr
+Five Star
+Midnight Star
+Starpoint
+Starshell
+Candi Staton
+Amii Stewart
+Dani Stevenson
+Sterling Simms
+Angie Stone
+Brownstone (group)
+Joss Stone
+Britney Spears
+Ruben Studdard
+The Stylistics
+Allen Su
+Subway (group)
+Jazmine Sullivan
+Donna Summer
+Sun (R&B band)
+The Supremes
+Surface (band)
+Keith Sweat
+SWV
+Sweetback (band)
+Stacy (singer)
+Sybil (singer)
+Sylvia Striplin
+Avery Storm
+Sugababes
+Rhythm Syndicate
+The Weeknd
+Tamia
+Tank (American singer)
+David Tao
+Taurus (group)
+TeeFlii
+Tinashe
+Tony Terry
+The Bar-Kays
+The Blackbyrds
+The Brothers Johnson
+The Emotions
+The Pussycat Dolls
+The Temprees
+The Boys (band)
+The Cheetah Girls (band)
+The Gap Band
+The Girls (R&B group)
+The Good Girls
+The Jets (band)
+The Jones Girls
+The 411
+The Pointer Sisters
+The Stylistics
+The O\'Jays
+The Rude Boys
+The Foreign Exchange
+The Mac Band
+The Deele
+Groove Theory
+Voices of Theory
+Robin Thicke
+Carl Thomas (singer)
+Rufus Thomas
+Tiara Thomas
+Gina Thompson
+Tony Thompson (singer)
+Teena Marie
+Reel Tight
+Justin Timberlake
+TLC (group)
+TGT (group)
+Today (group)
+Tom Gurl Four
+Tommy & The Tom Toms
+Tony! Toni! Ton\xc3\xa9!
+Tony Rich Project
+TQ (singer)
+Total (band)
+Allen Toussaint
+The Treniers
+Ralph Tresvant
+Trina Broussard
+Trin-i-tee 5:7
+Troop (band)
+Truth Hurts
+Big Joe Turner
+Ike Turner
+Kreesha Turner
+Tina Turner
+Tyra Bolling
+Tyrese Gibson
+Tweet (singer)
+Toya (singer)
+Tha\' Rayne
+Tori Kelly
+U.N.V.
+Usher (entertainer)
+Utada Hikaru
+Me-2-U
+N II U
+Vanity 6
+Vanity (performer)
+Brooke Valentine
+Bobby Valentino (American singer)
+L.V. (singer)
+Luther Vandross
+Elle Varner
+Countess Vaughn
+Mario Vazquez
+Tiffany Villarreal
+Jasmine Villegas
+Men of Vizion
+Voices (group)
+Leehom Wang
+War (band)
+Anita Ward
+Billy Ward (singer)
+Jessie Ware
+Dionne Warwick
+Keith Washington
+Jody Watley
+Johnny "Guitar" Watson
+The Weeknd
+Mary Wells
+Jason Weaver
+Caron Wheeler
+Wheesung
+Whistle (band)
+McFadden & Whitehead
+Whitehead Bros.
+The Whispers
+Barry White
+Karyn White
+Vanessa White
+Eugene Wilde
+Tristan Wilds
+Andre Williams
+Alyson Williams
+Brandi Williams
+Christopher Williams (singer)
+Deniece Williams
+Emily Williams
+Kiely Williams
+Lenny Williams
+Michelle Williams (singer)
+Pharrell Williams
+Vanessa L. Williams
+Vesta Williams
+Chuck Willis
+Will Pan
+Willie Taylor
+Charlie Wilson (musician)
+Jackie Wilson
+Winans family
+BeBe Winans
+CeCe Winans
+Mario Winans
+Marvin Winans Jr
+Angela Winbush
+Amy Winehouse
+Elisabeth Withers
+Stevie Wonder
+Brenton Wood
+Ali-Ollie Woodson
+D. Woods
+Bernard Wright
+Jaguar Wright
+Lizz Wright
+KeKe Wyatt
+Xscape (group)
+Ericka Yancey
+Yarbrough and Peoples
+Yasmeen Sulieman
+Roy Yeager
+Yummy Bingham
+Y?N-Vee
+Zakiya (singer)
+Zendaya
+Zhane
  ****** List of reggae bands from the Virgin Islands
 
 Abja
@@ -15328,8 +18282,6 @@ Army
 Dezarie
 Midnite
 Pressure
-List of Caribbean music groups
-Lists of musicians
  ****** List of reggae fusion artists
 
 2face Idibia
@@ -16180,10 +19132,6 @@ Viva Knievel (band)
 Voodoo Queens
 Wild Flag
 White Lung (band)
-Riot grrrl
-Queercore
-Indie pop
-All-female band
  ****** List of rocksteady musicians
 
 Bobby Aitken
@@ -17079,7 +20027,6 @@ Steve Perry (musician)
 Steve Winwood
 Stevie Nicks
 Styx (band)
-Sheena Easton
 Toby Beau
 Todd Rundgren
 Toto (band)
@@ -17087,11 +20034,6 @@ Van Morrison
 Walter Egan
 The Williams Brothers
 Wings (band)
-Soft rock
-:Category:Soft rock songs
-Folk rock
-Adult contemporary music
-Pop rock
  ****** List of soul musicians
 
 The "5" Royales
@@ -17589,6 +20531,7 @@ Blue Hawaiians
 The Bomboras
 Greg Camp
 Martin Cilia
+Daikaiju
 Donavon Frankenreiter
 The Drums
 Dum Dum Girls
@@ -17920,9 +20863,6 @@ Yello
 Yellow Magic Orchestra
 Young Ejecta
 Zeigeist
-List of new wave artists and bands
-List of post-punk bands
-Lists of musicians
  ****** List of tango singers
 
 Alberto Acu\xc3\xb1a
@@ -18159,7 +21099,6 @@ Carlos Viv\xc3\xa1n
 Mar\xc3\xada Volont\xc3\xa9
 Walter Yonsky
  ****** List of Thai pop artists
-
 Armchair (band)
 Sukrit Wisetkaew
 Bird McIntyre
@@ -18189,9 +21128,7 @@ Pong Lang Sa On
 Pru (band)
 Saranyu Winaipanit
 Sornram Teppitak
-Music of Thailand
  ****** List of UK garage artists
-
 187 Lockdown
 3 of a Kind (band)
 Agent X (producers)
@@ -18259,11 +21196,7 @@ Wiley (rapper)
 Wookie (musician)
 Zed Bias
 Zomby
-List of dubstep musicians
-:Category:Grime artists
-:Category:UK garage songs
  ****** List of vocal trance artists
-
 4 Strings
 Above & Beyond (band)
 Alexander Popov
@@ -18347,7 +21280,7 @@ Jonathan Mendelsohn
 Judith Pronk
 Justine Suissa
 Kate Walsh
-Ke$ha
+Kesha
 Kirsty Hawkshaw
 Kristy Thirsk
 Linda Mertens
